@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 917d4e34a9d14a5b9b556ee38c451163262c18a7 Yun-Yan Chi <jaiyalas@gmail.com> 1415716917 +0800	clone: from git@github.com:jaiyalas/JDSL.git
+917d4e34a9d14a5b9b556ee38c451163262c18a7 6cda50d7b4e9524e7c427ff42017e4926ed8a186 Yun-Yan Chi <jaiyalas@gmail.com> 1443064626 +0800	commit: added ignoredcase
+6cda50d7b4e9524e7c427ff42017e4926ed8a186 b085d703358046f3fdaaad3604558b4102b3fc42 Yun-Yan Chi <jaiyalas@gmail.com> 1443064787 +0800	commit: del .DS_Store
+b085d703358046f3fdaaad3604558b4102b3fc42 bdac53cded58f20f093a76f71a0e09b57ef519ab Yun-Yan Chi <jaiyalas@gmail.com> 1443065131 +0800	commit: added description

@@ -1,0 +1,4 @@
+dist/
+out.csv
+*~
+.DS_Store

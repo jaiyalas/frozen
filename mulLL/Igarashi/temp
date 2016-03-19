@@ -1,0 +1,40 @@
+
+<<derivation of ((○λ0) (○0))>>
+
+    eval (App (N(Abs(Var 0))) (N(Var 0))) 0 [] Cont0
+
+=>  { ... }
+    ...
+
+
+
+<<simply deriving the ((λ0) 1)>>
+
+    eval1 (App (Abs (Var 0)) (Lit 1)) 0 [] Cont0
+    
+=>  {eval1 (App t0 t1) 0 e k = eval1 t0 0 e (Cont1 t1 e k)}
+    eval1 (Abs (Var 0)) 0 [] (Cont1 (Lit 1) [] Cont0)
+    
+=>  {eval1 (Abs t) 0 e k = appK1 k (Clos e t)}
+    appK1 (Cont1 (Lit 1) [] Cont0) (Clos [] (Var 0))
+    
+=>  {appK1 (Cont1 t e k) (Clos e' t') = eval1 t 0 e (Cont2 t' e' k)}
+    eval1 (Lit 1) 0 [] (Cont2 (Var 0) [] Cont0)
+    
+=>  {eval1 (Lit n) 0 e k = appK1 k (Val n)}
+    appK1 (Cont2 (Var 0) [] Cont0) (Val 1)
+    
+=>  {appK1 (Cont2 t e k) v = eval1 t 0 (v:e) k}
+    eval1 (Var 0) 0 ((Val 1):[]) Cont0
+    
+=>  {eval1 (Var n) 0 e k = appK1 k (e !! n)}
+    appK1 Cont0 (((Val 1):[]) !! 0)
+    
+=>  {appK1 Cont0 v = v}
+    ((Val 1):[]) !! 0
+    
+=>  {difinition of (!!)}
+    (Val 1)
+
+
+

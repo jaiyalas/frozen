@@ -1,0 +1,23 @@
+Name:                drawbar
+Version:             0.1
+Synopsis:            ...
+Description:         ...
+License-file:        LICENSE
+Author:              jaiyalas (Yun-Yan Chi)
+Maintainer:          jaiyalas@gmail.com
+homepage:            https://github.com/jaiyalas/drawbar
+Stability:           Experimental
+Category:            Tool
+Build-type:          Simple
+Cabal-version:       >=1.2
+
+Executable drawbar
+  main-is: drawbar.hs
+
+  Build-depends:
+    base >= 4,
+    cmdargs >= 0.6,
+    cairo >= 0.12,
+    random >= 1
+
+  ghc-options: -Wall -O2 -XDeriveDataTypeable

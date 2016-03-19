@@ -1,0 +1,245 @@
+﻿Kingdom,KingdomC,Phylum,PhylumC,Class,ClassC,Order,OrderC,Family,FamilyC,Genus,GenusC,Species,ScientificName,CommonNameC,CoaCode,CoaCType
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Ziphiidae,喙鯨科,Ziphius,喙鯨屬,cavirostris,Ziphius cavirostris,柯氏喙鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Viverridae,靈貓科,Viverricula,小靈貓屬,indica,Viverricula indica taivana,麝香貓;小靈貓,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Ursidae,熊科,Ursus,棕熊屬,thibetanus,Ursus thibetanus formosanus,臺灣黑熊;黑熊,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Corvidae,鴉科,Urocissa,藍鵲屬,caerulea,Urocissa caerulea,臺灣藍鵲;紅嘴山鵲;長尾山娘,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Tytonidae,草鴞科,Tyto,草鴞屬,longimembris,Tyto longimembris pithecops,草鴞;東方草鴞,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Tursiops,寬吻海豚屬,truncatus,Tursiops truncatus,瓶鼻海豚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Tursiops,寬吻海豚屬,aduncus,Tursiops aduncus,印太瓶鼻海豚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Turdidae,鶇科,Turdus,鶇屬,poliocephalus,Turdus poliocephalus niveiceps,白頭鶇;島鶇,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Papilionidae,鳳蝶科,Troides,裳鳳蝶屬,magellanus,Troides magellanus sonani,珠光裳鳳蝶;珠光鳳蝶;珠光黃裳鳳蝶;蘭嶼黃裙鳳蝶;蘭嶼金鳳蝶;螢光翼鳳蝶;螢光裳鳳蝶,I,瀕臨滅絕
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Papilionidae,鳳蝶科,Troides,裳鳳蝶屬,aeacus,Troides aeacus formosanus,黃裳鳳蝶;金裳鳳蝶;黃裙鳳蝶;恆春金鳳蝶;金裳翼鳳蝶,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Scolopacidae,鷸科,Tringa,鷸屬,guttifer,Tringa guttifer,諾氏鷸;小青腳鷸,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Viperidae,蝮蛇科,Trimeresurus,竹葉青屬,gracilis,Trimeresurus gracilis,菊池氏龜殼花;臺灣烙鐵頭,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Columbiformes,鴿形目,Columbidae,鳩鴿科,Treron,綠鳩屬,formosae,Treron formosae formosae,紅頭綠鳩;紅頂綠鳩,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Pelecaniformes,鵜形目,Threskiornithidae,鹮科,Threskiornis,白鹮屬,melanocephalus,Threskiornis melanocephalus,黑頭白鹮,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Laridae,鷗科,Thalasseus,鳳頭燕鷗屬,bernsteini,Thalasseus bernsteini,黑嘴端鳳頭燕鷗,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Laridae,鷗科,Thalasseus,鳳頭燕鷗屬,bergii,Thalasseus bergii cristatus,鳳頭燕鷗;大鳳頭燕鷗,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Monarchidae,王鶲科,Terpsiphone,壽帶屬,atrocaudata,Terpsiphone atrocaudata atrocaudata,紫綬帶(過境亞種);綬帶鳥;黑綬帶鳥;紫壽帶,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Muscicapidae,鶲科,Tarsiger,林鴝屬,indicus,Tarsiger indicus formosanus,白眉林鴝,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Lacertidae,正蜥科,Takydromus,草蜥屬,sauteri,Takydromus sauteri,梭德氏草蜥;梭德氏舅母蛇;南臺草蜥,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Galliformes,雞形目,Phasianidae,雉科,Syrmaticus,長尾雉屬,mikado,Syrmaticus mikado,黑長尾雉;帝雉,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Strix,林鴞屬,nivicola,Strix nivicola yamadae,東方灰林鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Strix,林鴞屬,leptogrammica,Strix leptogrammica caligata,褐林鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Laridae,鷗科,Sternula,小燕鷗屬,albifrons,Sternula albifrons sinensis,小燕鷗;白額燕鷗,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Laridae,鷗科,Sterna,燕鷗屬,sumatrana,Sterna sumatrana sumatrana,黑枕燕鷗;蒼燕鷗,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Laridae,鷗科,Sterna,燕鷗屬,dougallii,Sterna dougallii bangsi,粉紅燕鷗;紅燕鷗,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Steno,糙齒海豚屬,bredanensis,Steno bredanensis,糙齒海豚;皺齒海豚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Stenella,原海豚屬,longirostris,Stenella longirostris,長吻飛旋海豚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Stenella,原海豚屬,coeruleoalba,Stenella coeruleoalba,條紋海豚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Stenella,原海豚屬,attenuata,Stenella attenuata,熱帶斑海豚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Squalidus,銀鮈屬,iijimae,Squalidus iijimae,飯島氏銀鮈;台灣銀鮈;車栓仔;飯島氏麻魚;台銀鮈;南風魚;飯島氏頜鬚鮈;台灣頜鬚鮈,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Squalidus,銀鮈屬,banarescui,Squalidus banarescui,巴氏銀鮈;車栓仔;班氏銀鮈;中台銀鮈;班氏頜鬚鮈,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Spilornis,蛇鵰屬,cheela,Spilornis cheela hoya,蛇鵰;大冠鷲,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Sousa,駝海豚屬,chinensis,Sousa chinensis,中華白海豚,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Colubridae,黃頷蛇科,Sinonatrix,華遊蛇屬,annularis,Sinonatrix annularis,赤腹游蛇;半紋蛇;紅豬母;水赤鏈游蛇;赤鏈華游蛇,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Elapidae,蝙蝠蛇科,Sinomicrurus,帶紋赤蛇屬,macclellandi,Sinomicrurus macclellandi swinhoei,環紋赤蛇;麗紋蛇,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Balitoridae,爬鰍科,Sinogastromyzon,中華爬岩鰍屬,puliensis,Sinogastromyzon puliensis,埔里中華爬岩鰍;埔里華吸鰍;簸箕魚;木箕貼仔;石貼仔;棕簑貼,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Balitoridae,爬鰍科,Sinogastromyzon,中華爬岩鰍屬,nantaiensis,Sinogastromyzon nantaiensis,南臺中華爬岩鰍;南台中華吸鰍;簸箕魚;木箕貼仔;石貼仔;棕簑貼,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Laridae,鷗科,Saundersilarus,黑嘴鷗屬,saundersi,Saundersilarus saundersi,黑嘴鷗,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Sasakia,紫蛺蝶屬,charonda,Sasakia charonda formosana,大紫蛺蝶;大紫挾蝶,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Artiodactyla,偶蹄目,Cervidae,鹿科,Rusa,,unicolor,Rusa unicolor swinhoei,臺灣水鹿;水鹿,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Rostratulidae,彩鷸科,Rostratula,彩鷸屬,benghalensis,Rostratula benghalensis benghalensis,彩鷸,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Rhacophorus,樹蛙屬,taipeianus,Rhacophorus taipeianus,臺北樹蛙,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Rhacophorus,樹蛙屬,prasinatus,Rhacophorus prasinatus,翡翠樹蛙,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Rhacophorus,樹蛙屬,aurantiventris,Rhacophorus aurantiventris,橙腹樹蛙,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Rhacophorus,樹蛙屬,arvalis,Rhacophorus arvalis,諸羅樹蛙,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Colubridae,黃頷蛇科,Rhabdophis,頸槽蛇屬,tigrinus,Rhabdophis tigrinus formosanus,臺灣赤煉蛇;紅脖游蛇;虎斑游蛇,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Colubridae,黃頷蛇科,Rhabdophis,頸槽蛇屬,swinhonis,Rhabdophis swinhonis,斯文豪氏游蛇;臺灣游蛇;臺灣頸槽蛇;斯文豪氏遊蛇,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Reguliidae,戴菊科,Regulus,戴菊屬,goodfellowi,Regulus goodfellowi,火冠戴菊鳥;臺灣戴菊;火冠戴菊,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Pycnonotidae,鵯科,Pycnonotus,鵯屬,taivanus,Pycnonotus taivanus,烏頭翁,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Pteropodidae,大蝙蝠科,Pteropus,狐蝠屬,dasymallus,Pteropus dasymallus formosus,臺灣狐蝠;臺灣大蝙蝠;飛蝠;狐蝠,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Pseudorca,偽虎鯨屬,crassidens,Pseudorca crassidens,偽虎鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Viperidae,蝮蛇科,Protobothrops,原矛頭蝮屬,mucrosquamatus,Protobothrops mucrosquamatus,龜殼花;烙鐵頭;原矛頭蝮,III,其它應予保育
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Lampyridae,螢科,Pristolycus,黑脈螢屬,kanoi,Pristolycus kanoi,鹿野氏黑脈螢;鹿野氏赤翅螢,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Felidae,貓科,Prionailurus,豹貓屬,bengalensis,Prionailurus bengalensis,石虎;華南豹貓;豹貓;山貓;金錢貓,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Paridae,山雀科,Poecile,赤腹山雀屬,varius,Poecile varius varius,赤腹山雀日本亞種,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Paridae,山雀科,Poecile,赤腹山雀屬,varius,Poecile varius castaneoventris,赤腹山雀,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Pelecaniformes,鵜形目,Threskiornithidae,鹮科,Platalea,琵鷺屬,minor,Platalea minor,黑面琵鷺;黑臉琵鷺,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Pelecaniformes,鵜形目,Threskiornithidae,鹮科,Platalea,琵鷺屬,leucorodia,Platalea leucorodia leucorodia,白琵鷺;琵鷺,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Pittidae,八色鶇科,Pitta,八色鳥屬,nympha,Pitta nympha,仙八色鶇;八色鳥;八色鶇,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Piciformes,鴷形目,Picidae,啄木鳥科,Picus,綠啄木屬,canus,Picus canus tancolo,綠啄木,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Physeteridae,抹香鯨科,Physeter,抹香鯨屬,macrocephalus,Physeter macrocephalus,抹香鯨,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Phylloscopidae,柳鶯科,Phylloscopus,柳鶯屬,ijimae,Phylloscopus ijimae,飯島柳鶯;艾吉柳鶯,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Phylloscopidae,柳鶯科,Phylloscopus,柳鶯屬,borealis,Phylloscopus borealis xanthodryas,極北柳鶯,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Orthoptera,直翅目,Tettigoniidae,螽蟴科,Phyllophorina,大葉螽蟴屬,kotoshoensis,Phyllophorina kotoshoensis,蘭嶼大葉螽蟴,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Muscicapidae,鶲科,Phoenicurus,紅尾鴝屬,fuliginosa,Phoenicurus fuliginosa affinis,鉛色水鶇;鉛色水鴝;紅尾水鴝,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Procellariiformes,鸌形目,Diomedeidae,信天翁科,Phoebastria,信天翁屬,nigripes,Phoebastria nigripes,黑腳信天翁,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Procellariiformes,鸌形目,Diomedeidae,信天翁科,Phoebastria,信天翁屬,albatrus,Phoebastria albatrus,短尾信天翁,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Galliformes,雞形目,Phasianidae,雉科,Phasianus,雉屬,colchicus,Phasianus colchicus formosanus,環頸雉,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Pernis,蜂鷹屬,ptilorhynchus,Pernis ptilorhynchus orientalis,東方蜂鷹;蜂鷹;雕頭鷹,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Paridae,山雀科,Periparus,煤山雀屬,ater,Periparus ater ptilosus,煤山雀,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Peponocephala,瓜頭鯨屬,electra,Peponocephala electra,瓜頭鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Ranidae,赤蛙科,Pelophylax,側褶蛙屬,fukienensis,Pelophylax fukienensis,金線蛙;福建側褶蛙;福建金線蛙,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Pelecaniformes,鵜形目,Pelecanidae,鵜鶘科,Pelecanus,鵜鶘屬,crispus,Pelecanus crispus,卷羽鵜鶘;灰鵜鶘;天馬丁鵜鶘,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Passeridae,麻雀科,Passer,麻雀屬,rutilans,Passer rutilans rutilans,山麻雀;紅雀;桂色雀,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Paridae,山雀科,Parus,山雀屬,monticolus,Parus monticolus insperatus,青背山雀;綠背山雀,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Paridae,山雀科,Parus,山雀屬,holsti,Parus holsti,黃山雀,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Pararasbora,副細鯽屬,moltrechti,Pararasbora moltrechti,臺灣副細鯽;台灣副細鯽;台灣白魚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Pandionidae,鶚科,Pandion,鶚屬,haliaetus,Pandion haliaetus haliaetus,魚鷹;鶚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Viverridae,靈貓科,Paguma,花面狸屬,larvata,Paguma larvata taivana,白鼻心;果子貍;果子狸,III,其它應予保育
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Curculionidae,象鼻蟲科,Pachyrhynchus,,tobafolius,Pachyrhynchus tobafolius,小圓斑球背象鼻蟲,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Curculionidae,象鼻蟲科,Pachyrhynchus,,sonani,Pachyrhynchus sonani,條紋球背象鼻蟲,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Curculionidae,象鼻蟲科,Pachyrhynchus,,sarcitis,Pachyrhynchus sarcitis kotoensis,大圓斑球背象鼻蟲,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Curculionidae,象鼻蟲科,Pachyrhynchus,,nobilis,Pachyrhynchus nobilis yamianus,斷紋球背象鼻蟲,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Viperidae,蝮蛇科,Ovophis,烙鐵頭蛇屬,monticola,Ovophis monticola makazayazaya,瑪家山龜殼花;阿里山龜殼花;山烙鐵頭,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Otus,角鴞屬,sunia,Otus sunia japonicus,東方角鴞;日本角鴞;紅角鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Otus,角鴞屬,spilocephalus,Otus spilocephalus hambroecki,黃嘴角鴞;臺灣木葉鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Otus,角鴞屬,lettia,Otus lettia glabripes,領角鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Otus,角鴞屬,elegans,Otus elegans botelensis,優雅角鴞;蘭嶼角鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Colubridae,黃頷蛇科,Orthriophis,黑眉錦蛇屬,taeniura,Orthriophis taeniura friesi,臺灣黑眉錦蛇,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Oriolidae,黃鸝科,Oriolus,黃鸝屬,traillii,Oriolus traillii ardens,朱鸝,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Oriolidae,黃鸝科,Oriolus,黃鸝屬,chinensis,Oriolus chinensis diffusus,黃鸝;黑枕黃鸝,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Orcinus,虎鯨屬,orca,Orcinus orca,虎鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Laridae,鷗科,Onychoprion,棕背燕鷗屬,fuscata,Onychoprion fuscata nubilasa,烏領燕鷗;大鳳頭燕鷗,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Laridae,鷗科,Onychoprion,棕背燕鷗屬,anaethetus,Onychoprion anaethetus anaethetus,白眉燕鷗,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Salmoniformes,鮭形目,Salmonidae,鮭科,Oncorhynchus,鉤吻鮭屬,formosanus,Oncorhynchus formosanus,臺灣鉤吻鮭;台灣大麻哈魚;台灣鮭;梨山鮭;櫻花鉤吻鮭;台灣鱒;大甲鱒;梨山鱒,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Scolopacidae,鷸科,Numenius,杓鷸屬,arquata,Numenius arquata orientalis,白腰杓鷸;大杓鷸,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Nisaetus,角鷹屬,nipalensis,Nisaetus nipalensis nipalensis,熊鷹;赫氏角鷹,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Pelecaniformes,鵜形目,Threskiornithidae,鹮科,Nipponia,朱鹮屬,nippon,Nipponia nippon,朱鹮;朱鷺,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Ninox,鷹鴞屬,japonica,Ninox japonica totogo,褐鷹鴞(留鳥亞種);褐鷹鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Muscicapidae,鶲科,Niltava,仙鶲屬,vivida,Niltava vivida vivida,黃腹琉璃;黃腹仙鶲,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Phocoenidae,鼠海豚科,Neophocaena,江豚屬,phocaenoides,Neophocaena phocaenoides,江豚;露脊鼠海豚,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Felidae,貓科,Neofelis,雲豹屬,nebulosa,Neofelis nebulosa brachyura,臺灣雲豹;雲豹,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Elapidae,蝙蝠蛇科,Naja,眼鏡蛇屬,atra,Naja atra,眼鏡蛇;飯匙倩,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Homalopsidae,水蛇科,Myrrophis,,chinensis,Myrrophis chinensis,唐水蛇;泥蛇;中國水蛇,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Mustelidae,貂科,Mustela,鼬屬,nivalis,Mustela nivalis formosana,臺灣小黃鼠狼;臺灣高山小黃鼠狼,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Artiodactyla,偶蹄目,Cervidae,鹿科,Muntiacus,麂屬,reevesi,Muntiacus reevesi micrurus,臺灣山羌;麂;羌仔;山羌,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Milvus,鳶屬,migrans,Milvus migrans formosanus,黑鳶;老鷹;黑耳鳶,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Metzia,梅氏鯿屬,mesembrinum,Metzia mesembrinum,大鱗梅氏鯿;大鱗梅茨魚;車栓仔;大鱗黃鯝魚;大鱗鱎;高木氏細鯿;大鱗細鯿;大鱗麥氏鯿,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Metzia,梅氏鯿屬,formosae,Metzia formosae,台灣梅氏鯿;台灣梅茨魚;車栓仔;台灣黃鯝魚;台灣細鯿;台灣麥氏鯿,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Ziphiidae,喙鯨科,Mesoplodon,中喙鯨屬,pacificus,Mesoplodon pacificus,朗氏喙鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Ziphiidae,喙鯨科,Mesoplodon,中喙鯨屬,ginkgodens,Mesoplodon ginkgodens,銀杏齒中喙鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Ziphiidae,喙鯨科,Mesoplodon,中喙鯨屬,densirostris,Mesoplodon densirostris,柏氏中喙鯨;布蘭氏喙鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Balaenopteridae,鬚鯨科,Megaptera,座頭鯨屬,novaeangliae,Megaptera novaeangliae,大翅鯨,I,瀕臨滅絕
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Phasmida,竹節蟲目,Phasmatidae,竹節蟲科,Megacrania,大頭竹節蟲屬,tsudai,Megacrania tsudai tsudai,津田氏大頭竹節蟲,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Testudines,龜鱉目,Geoemydidae,地龜科,Mauremys,石龜屬,reevesii,Mauremys reevesii,金龜;革龜;臭青龜;烏龜,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Testudines,龜鱉目,Geoemydidae,地龜科,Mauremys,石龜屬,mutica,Mauremys mutica,柴棺龜;黃龜,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Mustelidae,貂科,Martes,貂屬,flavigula,Martes flavigula chrysospila,黃喉貂;姜仔虎;黃頸鼬,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Pholidota,鱗甲目,Manidae,穿山甲科,Manis,穿山甲屬,pentadactyla,Manis pentadactyla pentadactyla,穿山甲;中國鯪鯉;悶仔;土龜,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Primates,靈長目,Cercopithecidae,獼猴科,Macaca,獼猴屬,cyclopis,Macaca cyclopis,臺灣獼猴,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Mustelidae,貂科,Lutra,水獺屬,lutra,Lutra lutra chinensis,水獺;歐亞水獺,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Galliformes,雞形目,Phasianidae,雉科,Lophura,鷴屬,swinhoii,Lophura swinhoii,藍腹鷴;藍鷴,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Siluriformes,鯰形目,Amblycipitidae,鈍頭鮠科,Liobagrus,屬,formosanus,Liobagrus formosanus,臺灣;台灣;紅噹仔;黃蜂;台灣鮰,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Scolopacidae,鷸科,Limnodromus,半蹼鷸屬,semipalmatus,Limnodromus semipalmatus,半蹼鷸,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Gekkonidae,壁虎科,Lepidodactylus,鱗趾虎屬,yami,Lepidodactylus yami,雅美鱗趾虎;臺灣鱗趾虎;雅美鱗趾蝎虎,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Testudines,龜鱉目,Cheloniidae,蠵龜科,Lepidochelys,麗龜屬,olivacea,Lepidochelys olivacea,欖蠵龜;麗龜,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Laniidae,伯勞科,Lanius,伯勞屬,cristatus,Lanius cristatus cristatus,紅尾伯勞,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Lagenodelphis,沙撈越海豚屬,hosei,Lagenodelphis hosei,弗氏海豚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Kogiidae,小抹香鯨科,Kogia,小抹香鯨屬,sima,Kogia sima,侏儒抹香鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Kogiidae,小抹香鯨科,Kogia,小抹香鯨屬,breviceps,Kogia breviceps,小抹香鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Ketupa,魚鴞屬,flavipes,Ketupa flavipes,黃魚鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Agamidae,飛蜥科,Japalura,龍蜥屬,makii,Japalura makii,牧氏攀蜥,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Agamidae,飛蜥科,Japalura,龍蜥屬,luei,Japalura luei,呂氏攀蜥,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Agamidae,飛蜥科,Japalura,龍蜥屬,brevipes,Japalura brevipes,短肢攀蜥,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Ictinaetus,林鵰屬,malayensis,Ictinaetus malayensis malayensis,林鵰,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Leiothrichidae,噪眉科,Ianthocincla,,ruficeps,Ianthocincla ruficeps,台灣白喉噪眉;繡眼雀鶥;白眶雀鶥;白喉噪眉;白喉笑鶇,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Leiothrichidae,噪眉科,Ianthocincla,,poecilorhynchus,Ianthocincla poecilorhynchus,棕噪眉;竹鳥;棕噪鶥,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Caudata,有尾目,Hynobiidae,山椒魚科,Hynobius,小鯢屬,sonani,Hynobius sonani,楚南氏山椒魚,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Caudata,有尾目,Hynobiidae,山椒魚科,Hynobius,小鯢屬,glacialis,Hynobius glacialis,南湖山椒魚,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Caudata,有尾目,Hynobiidae,山椒魚科,Hynobius,小鯢屬,fuca,Hynobius fuca,觀霧山椒魚,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Caudata,有尾目,Hynobiidae,山椒魚科,Hynobius,小鯢屬,formosanus,Hynobius formosanus,臺灣山椒魚,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Caudata,有尾目,Hynobiidae,山椒魚科,Hynobius,小鯢屬,arisanensis,Hynobius arisanensis,阿里山山椒魚,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Ranidae,赤蛙科,Hylarana,水蛙屬,taipehensis,Hylarana taipehensis,臺北赤蛙,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Jacanidae,水雉科,Hydrophasianus,水雉屬,chirurgus,Hydrophasianus chirurgus,水雉;鳳尾水雉;雉尾水雉,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Herpestidae,獴科,Herpestes,獴屬,urva,Herpestes urva formosanus,食蟹獴;棕簑貓;膨尾狸,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Balitoridae,爬鰍科,Hemimyzon,間爬岩鰍屬,taitungensis,Hemimyzon taitungensis,臺東間爬岩鰍;台東間吸鰍;石貼仔,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Cerambycidae,天牛科,Hemadius,,oenochrous,Hemadius oenochrous,霧社深山天牛;霧社血斑天牛,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Haliastur,栗鳶屬,indus,Haliastur indus intermedius,栗鳶,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Haliaeetus,海鵰屬,albicilla,Haliaeetus albicilla albicilla,白尾海鵰,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Gruiformes,鶴形目,Gruidae,鶴科,Grus,鶴屬,vipio,Grus vipio,白枕鶴;紅面鶴,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Gruiformes,鶴形目,Gruidae,鶴科,Grus,鶴屬,monacha,Grus monacha,白頭鶴;鍋鶴,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Gruiformes,鶴形目,Gruidae,鶴科,Grus,鶴屬,japonensis,Grus japonensis,丹頂鶴;仙鶴,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Gruiformes,鶴形目,Gruidae,鶴科,Grus,鶴屬,grus,Grus grus lilfordi,灰鶴,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Grampus,灰海豚屬,griseus,Grampus griseus,瑞氏海豚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Pelecaniformes,鵜形目,Ardeidae,鷺科,Gorsachius,麻鷺屬,goisagi,Gorsachius goisagi,麻鷺;栗頭麻鷺,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Globicephala,領航鯨屬,macrorhynchus,Globicephala macrorhynchus,短肢領航鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Glaucidium,鵂鶹屬,brodiei,Glaucidium brodiei pardalotum,領鵂鶹;鵂鶹,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Glareolidae,燕鴴科,Glareola,燕鴴屬,maldivarum,Glareola maldivarum,燕鴴,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Gekkonidae,壁虎科,Gekko,壁虎屬,kikuchii,Gekko kikuchii,菊池氏壁虎;菊池氏守宮;蘭嶼守宮;蘭嶼壁虎,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Corvidae,鴉科,Garrulus,松鴉屬,glandarius,Garrulus glandarius taivanus,松鴉;橿鳥,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Leiothrichidae,噪眉科,Garrulax,噪鶥屬,taewanus,Garrulax taewanus,臺灣畫眉;畫眉,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Scolopacidae,鷸科,Gallinago,田鷸屬,hardwickii,Gallinago hardwickii,大田鷸;大地鷸,III,其它應予保育
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Hemiptera,半翅目,Cicadidae,蟬科,Formotosena,爺蟬屬,seebohmi,Formotosena seebohmi,臺灣爺蟬,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Feresa,矮鯨屬,attenuata,Feresa attenuata,小虎鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Falconiformes,隼形目,Falconidae,隼科,Falco,隼屬,tinnunculus,Falco tinnunculus tinnunculus,紅隼,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Falconiformes,隼形目,Falconidae,隼科,Falco,隼屬,subbuteo,Falco subbuteo subbuteo,燕隼,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Falconiformes,隼形目,Falconidae,隼科,Falco,隼屬,peregrinus,Falco peregrinus calidus,遊隼;隼,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Falconiformes,隼形目,Falconidae,隼科,Falco,隼屬,naumanni,Falco naumanni,黃爪隼,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Falconiformes,隼形目,Falconidae,隼科,Falco,隼屬,columbarius,Falco columbarius insignis,灰背隼,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Falconiformes,隼形目,Falconidae,隼科,Falco,隼屬,amurensis,Falco amurensis,紅腳隼;阿穆爾隼,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Curculionidae,象鼻蟲科,Eupyrgops,,waltonianus,Eupyrgops waltonianus,碎斑硬象鼻蟲,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Colubridae,黃頷蛇科,Euprepiophis,,mandarinus,Euprepiophis mandarinus,高砂蛇;玉帶蛇;玉斑錦蛇,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Eschrichtiidae,灰鯨科,Eschrichtius,灰鯨屬,robustus,Eschrichtius robustus,灰鯨,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Testudines,龜鱉目,Cheloniidae,蠵龜科,Eretmochelys,玳瑁屬,imbricata,Eretmochelys imbricata,玳瑁;鷹嘴海龜;毒瑁,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Muscicapidae,鶲科,Enicurus,燕尾屬,scouleri,Enicurus scouleri fortis,小剪尾;小燕尾,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Homalopsidae,水蛇科,Enhydris,水蛇屬,plumbea,Enhydris plumbea,水蛇;水泡蛇;鉛色水蛇,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Emberizidae,鵐科,Emberiza,鵐屬,sulphurata,Emberiza sulphurata,繡眼鵐;野鵐;硫磺鵐,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Elanus,黑翅鳶屬,caeruleus,Elanus caeruleus vociferus,黑翅鳶,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Pelecaniformes,鵜形目,Ardeidae,鷺科,Egretta,白鷺屬,eulophotes,Egretta eulophotes,唐白鷺;黃嘴白鷺,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Lucanidae,鍬形蟲科,Dorcus,大鍬形蟲屬,schenklingi,Dorcus schenklingi,長角大鍬形蟲,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Lucanidae,鍬形蟲科,Dorcus,大鍬形蟲屬,curvidens,Dorcus curvidens formosanus,臺灣大鍬形蟲,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Anguidae,蛇蜥科,Dopasia,,harti,Dopasia harti,哈特氏蛇蜥;哈特氏脆蛇蜥;臺灣蛇蜥,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Testudines,龜鱉目,Dermochelyidae,革龜科,Dermochelys,革龜屬,coriacea,Dermochelys coriacea,革龜;稜皮龜,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Piciformes,鴷形目,Picidae,啄木鳥科,Dendrocopos,啄木鳥屬,leucotos,Dendrocopos leucotos insularis,大赤啄木,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Delphinus,海豚屬,delphis,Delphinus delphis,真海豚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Delphinidae,海豚科,Delphinus,海豚屬,capensis,Delphinus capensis,長吻真海豚,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Viperidae,蝮蛇科,Deinagkistrodon,尖吻蝮屬,acutus,Deinagkistrodon acutus,百步蛇;尖吻腹蛇,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Viperidae,蝮蛇科,Daboia,,siamensis,Daboia siamensis,鎖蛇;七步蛇;鎖鍊蛇;鎖鏈蛇,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Testudines,龜鱉目,Geoemydidae,地龜科,Cuora,,flavomarginata,Cuora flavomarginata,食蛇龜;閉殼龜;黃緣閉殼龜;箱龜;馬來閉殼龜,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Galliformes,雞形目,Phasianidae,雉科,Coturnix,鶉屬,chinensis,Coturnix chinensis,藍胸鶉;藍胸鵪鶉;小鵪鶉,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Campephagidae,山椒鳥科,Coracina,鵑鵙屬,macei,Coracina macei rexpineti,花翅山椒;花翅山椒鳥;大鵑鵙,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Hipposideridae,葉鼻蝠科,Coelops,無尾葉鼻蝠屬,frithii,Coelops frithii formosanus,臺灣無尾葉鼻蝠;無尾葉鼻蝠,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Circus,鷂屬,spilonotus,Circus spilonotus spilonotus,東方澤鷂;澤鵟;東方澤鵟,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Circus,鷂屬,melanoleucos,Circus melanoleucos,鵲鷂;花澤鵟,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Circus,鷂屬,cyaneus,Circus cyaneus cyaneus,灰鷂;灰澤鵟;白尾鷂,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Muscicapidae,鶲科,Cinclidium,地鴝屬,leucurum,Cinclidium leucurum montium,白尾鴝;白尾藍地鴝,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Ciconiiformes,鸛形目,Ciconiidae,鸛科,Ciconia,鸛屬,nigra,Ciconia nigra,黑鸛,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Ciconiiformes,鸛形目,Ciconiidae,鸛科,Ciconia,鸛屬,boyciana,Ciconia boyciana,東方白鸛,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Chimarrogale,水麝鼩屬,himalayica,Chimarrogale himalayica,水鼩,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Testudines,龜鱉目,Cheloniidae,蠵龜科,Chelonia,海龜屬,mydas,Chelonia mydas,綠蠵龜;綠海龜;海龜,I,瀕臨滅絕
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Scarabaeidae,金龜子科,Cheirotonus,長臂金龜屬,formosanus,Cheirotonus formosanus,長臂金龜;臺灣長臂金龜,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Labridae,隆頭魚科,Cheilinus,唇魚屬,undulatus,Cheilinus undulatus,曲紋唇魚;波紋唇魚(蘇眉);拿破崙;龍王鯛;海哥龍王;大片仔;石蚱仔;汕散仔;闊嘴郎;波紋鸚鯛,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Testudines,龜鱉目,Cheloniidae,蠵龜科,Caretta,蠵龜屬,caretta,Caretta caretta,赤蠵龜;紅海龜;蠵龜,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Artiodactyla,偶蹄目,Bovidae,牛科,Capricornis,鬣羚屬,swinhoei,Capricornis swinhoei,臺灣野山羊;臺灣長鬃山羊,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Elateridae,叩頭蟲科,Campsosternus,大青叩頭蟲屬,watanabei,Campsosternus watanabei,虹彩叩頭蟲;渡邊氏大青叩頭蟲,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Scolopacidae,鷸科,Calidris,濱鷸屬,pygmea,Calidris pygmea,琵嘴鷸,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Buteo,鵟屬,lagopus,Buteo lagopus menzbieri,西伯利亞毛足鵟;毛足鵟;毛腳鵟,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Buteo,鵟屬,hemilasius,Buteo hemilasius,大鵟,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Buteo,鵟屬,buteo,Buteo buteo japonicus,鵟;普通鵟,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Butastur,鵟鷹屬,indicus,Butastur indicus,灰面鵟鷹;灰面鷲,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Buprestidae,吉丁蟲科,Buprestis (Akiyamaia),吉丁蟲屬,mirabilis,Buprestis (Akiyamaia) mirabilis,妖艷吉丁蟲,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Elapidae,蝙蝠蛇科,Bungarus,環蛇屬,multicinctus,Bungarus multicinctus,雨傘節;銀環蛇,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Scaridae,鸚哥魚科,Bolbometopon,隆頭鸚哥魚屬,muricatum,Bolbometopon muricatum,隆頭鸚哥魚;駝峰大鸚嘴魚;鸚哥,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Coenobitidae,陸寄居蟹科,Birgus,椰子蟹屬,latro,Birgus latro,椰子蟹,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Balaenopteridae,鬚鯨科,Balaenoptera,鬚鯨屬,physalus,Balaenoptera physalus,長鬚鯨,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Balaenopteridae,鬚鯨科,Balaenoptera,鬚鯨屬,omurai,Balaenoptera omurai,大村鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Balaenopteridae,鬚鯨科,Balaenoptera,鬚鯨屬,musculus,Balaenoptera musculus,藍鯨,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Balaenopteridae,鬚鯨科,Balaenoptera,鬚鯨屬,edeni,Balaenoptera edeni,鯷鯨,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Balaenopteridae,鬚鯨科,Balaenoptera,鬚鯨屬,brydei,Balaenoptera brydei,布氏鯨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Balaenopteridae,鬚鯨科,Balaenoptera,鬚鯨屬,borealis,Balaenoptera borealis,鰮鯨,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Cetacea,鯨目,Balaenopteridae,鬚鯨科,Balaenoptera,鬚鯨屬,acutorostrata,Balaenoptera acutorostrata,小鬚鯨,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Ranidae,赤蛙科,Babina,拇棘蛙屬,okinavana,Babina okinavana,豎琴蛙,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Aviceda,鵑隼屬,leuphotes,Aviceda leuphotes syama,黑冠鵑隼,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Papilionidae,鳳蝶科,Atrophaneura,曙鳳蝶屬,horishana,Atrophaneura horishana,曙鳳蝶;桃紅鳳蝶,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Athene,小鴞屬,noctua,Athene noctua plumipes,縱紋腹小鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Asio,耳鴞屬,otus,Asio otus otus,長耳鴞;長耳虎斑鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Asio,耳鴞屬,flammeus,Asio flammeus flammeus,短耳鴞;短耳虎斑鴞,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Galliformes,雞形目,Phasianidae,雉科,Arborophila,山鷓鴣屬,crudigularis,Arborophila crudigularis,臺灣山鷓鴣;深山竹雞,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Aquila,鵰屬,heliaca,Aquila heliaca,白肩鵰,I,瀕臨滅絕
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Coleoptera,鞘翅目,Lampyridae,螢科,Aquatica,水螢屬,hydrophila,Aquatica hydrophila,黃胸黑翅螢,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Charadriiformes,鴴形目,Laridae,鷗科,Anous,玄燕鷗屬,stolidus,Anous stolidus pileatus,白頂玄燕鷗;玄燕鷗,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Cordulegastridae,勾蜓科,Anotogaster,,klossi,Anotogaster klossi,無霸勾蜓,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Anseriformes,雁形目,Anatidae,雁鴨科,Anas,鴨屬,formosa,Anas formosa,巴鴨;花臉鴨,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Colubridae,黃頷蛇科,Amphiesma,腹鏈蛇屬,miyajimae,Amphiesma miyajimae,金絲蛇;臺北游蛇;臺北腹鏈蛇,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Anseriformes,雁形目,Anatidae,雁鴨科,Aix,鴛鴦屬,galericulata,Aix galericulata,鴛鴦,II,珍貴稀有
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Papilionidae,鳳蝶科,Agehana,寬尾鳳蝶屬,maraho,Agehana maraho,臺灣寬尾鳳蝶;寬尾鳳蝶,I,瀕臨滅絕
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Aegypius,禿鷲屬,monachus,Aegypius monachus,禿鷲,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Leiothrichidae,噪眉科,Actinodura,斑翅鶥屬,morrisoniana,Actinodura morrisoniana,紋翼畫眉;臺灣斑翅鶥;栗頭斑翅鶥,III,其它應予保育
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,雀形目,Sturnidae,椋鳥科,Acridotheres,八哥屬,cristatellus,Acridotheres cristatellus formosanus,八哥;冠八哥;土八哥,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Accipiter,鷹屬,virgatus,Accipiter virgatus fuscipectus,松雀鷹;台灣松雀鷹,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Accipiter,鷹屬,trivirgatus,Accipiter trivirgatus formosae,鳳頭蒼鷹,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Accipiter,鷹屬,soloensis,Accipiter soloensis,赤腹鷹,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Accipiter,鷹屬,nisus,Accipiter nisus fujiyamae,北雀鷹;雀鷹,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Accipiter,鷹屬,gularis,Accipiter gularis gularis,日本松雀鷹;北方松雀鷹,II,珍貴稀有
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Accipitriformes,鷹形目,Accipitridae,鷹科,Accipiter,鷹屬,gentilis,Accipiter gentilis fujiyamae,蒼鷹,II,珍貴稀有

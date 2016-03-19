@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled 
+fa264a042ea294125dda38e84e863fafc08d6a3e refs/remotes/origin/fix_pomegranate
+90608fd63d78341868137c125f1e1ff73e2c224b refs/remotes/origin/gh-pages
+9bf46cdbc1cff82536a0b1733f90ff6945142272 refs/remotes/origin/master

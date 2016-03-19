@@ -1,0 +1,1001 @@
+﻿Kingdom,KingdomC,Phylum,PhylumC,Class,ClassC,Order,OrderC,Family,FamilyC,Genus,GenusC,Species,ScientificName,CommonNameC,IsEndemic
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Strobilopsidae,內溝蝸牛科,Enteroplax,,kanjiokuboi,Enteroplax kanjiokuboi,東埔內溝蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Streptaxidae,扭蝸牛科,Elma,,swinhoei,Elma swinhoei,草包蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Helicarionidae,鱉甲蝸牛科,Trochochlamys,,crenulata,Trochochlamys crenulata hotawana,臺灣笠黍蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Enidae,似煙管蝸牛科,Luchuena,琉球似煙管蝸牛屬,luchuana,Luchuena luchuana kasyotoensis,綠島似煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Thaumatoptyx,,uraniscoptyx,Thaumatoptyx uraniscoptyx diploptyx,雙襞奇管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Thaumatoptyx,,uranicoptyx,Thaumatoptyx uranicoptyx,天女細煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Thaumatoptyx,,santiaoensis,Thaumatoptyx santiaoensis,三貂嶺細煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Thaumatoptyx,,hassenensis,Thaumatoptyx hassenensis,八仙山細煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Thaumatoptyx,,gonyptyx,Thaumatoptyx gonyptyx lacuphila,,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Thaumatoptyx,,diacoptyx,Thaumatoptyx diacoptyx,紡錘細煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Thaumatoptyx,,crassilamellata,Thaumatoptyx crassilamellata,鬼牙細煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Thaumatoptyx,,costellata,Thaumatoptyx costellata,,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Thaumatoptyx,,bivincta,Thaumatoptyx bivincta,環線細煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Reinia,,changi,Reinia changi,張氏寬口煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Phaedusa,煙管蝸牛屬,horikawai,Phaedusa horikawai ishizakii,石崎煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Phaedusa,煙管蝸牛屬,horikawai,Phaedusa horikawai,堀川煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Phaedusa,煙管蝸牛屬,hayashii,Phaedusa hayashii chipenensis,知本煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Oospira,,taiwanica,Oospira taiwanica,光澤臺灣煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Oospira,,swinhoei,Oospira swinhoei,斯文豪煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Oospira,,lingchuanensis,Oospira lingchuanensis,冷泉煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Oospira,,formosensis,Oospira formosensis paraformosensis,,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Oospira,,formosensis,Oospira formosensis hotawana,寶斗山煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Oospira,,formosensis,Oospira formosensis formosensis,臺灣煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Oospira,,albiapex,Oospira albiapex,白頂煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,similaris,Hemiphaedusa similaris ventriosa,黑紡錘煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,similaris,Hemiphaedusa similaris clava,棍紡錘煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,odontochila,Hemiphaedusa odontochila fulvicollis,,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,nigricans,Hemiphaedusa nigricans,黑煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,longiplicata,Hemiphaedusa longiplicata,,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,kosakai,Hemiphaedusa kosakai,小阪氏煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,ilandensis,Hemiphaedusa ilandensis,,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,hemmeni,Hemiphaedusa hemmeni yucola,,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,hemmeni,Hemiphaedusa hemmeni hemmeni,,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,exilis,Hemiphaedusa exilis janshanensis,占山煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,baibaraensis,Hemiphaedusa baibaraensis,眉原煙管蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,antuensis,Hemiphaedusa antuensis chichiensis,,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Clausiliidae,煙管蝸牛科,Hemiphaedusa,臺灣紡錘煙管蝸牛屬,antuensis,Hemiphaedusa antuensis antuensis,,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,viridibasis,Satsuma viridibasis,綠底高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,vallis,Satsuma vallis,太魯閣高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,tani,Satsuma tani,丹氏蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,takkiriensis,Satsuma takkiriensis,太魯閣蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,takahashii,Satsuma takahashii,高橋氏蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,swinhoei,Satsuma swinhoei,斯文豪氏高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,succincta,Satsuma succincta amblytropis,圓菱蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,succincta,Satsuma succincta,小菱蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,sphaeroconus,Satsuma sphaeroconus,橡實蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,rubrotincta,Satsuma rubrotincta,紅菱蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,polymorpha,Satsuma polymorpha,繽紛高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,pilsbryi,Satsuma pilsbryi,皮氏高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,phoenicis,Satsuma phoenicis,鳳凰高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,pekanensis,Satsuma pekanensis,左旋蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,paiwanis,Satsuma paiwanis,排灣栗蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,nux,Satsuma nux sericata,皺栗蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,nux,Satsuma nux,栗蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,mollicula,Satsuma mollicula,豔美高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,mellea,Satsuma mellea,薄菱蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,luteolella,Satsuma luteolella,微黃高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,longkiauwensis,Satsuma longkiauwensis,琅嶠蝸牛,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,lita,Satsuma lita,海岸栗蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,lini,Satsuma lini,林氏高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,katipolensis,Satsuma katipolensis,知本高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,kanoi,Satsuma kanoi,鹿野氏高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,insignis,Satsuma insignis,奇異高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,huberi,Satsuma huberi,扈伯爾氏高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,hagiomontis,Satsuma hagiomontis,大武高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,friesiana,Satsuma friesiana,菱蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,formosensis,Satsuma formosensis,臺灣蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,contraria,Satsuma contraria,左旋蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,careocaecum,Satsuma careocaecum,關子嶺高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,bairdi,Satsuma bairdi,淡水蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,auratibasis,Satsuma auratibasis,金底高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,arisana,Satsuma arisana,阿里山蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Camaenidae,南亞蝸牛科,Satsuma,,albida,Satsuma albida,白高腰蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Bradybaenidae,扁蝸牛科,Aegista,盾蝸牛屬,lautsi,Aegista lautsi brachylasia,絨盾蝸牛,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Bradybaenidae,扁蝸牛科,Aegista,盾蝸牛屬,fulvicans,Aegista fulvicans,高腰盾蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Stylommatophora,柄眼目,Bradybaenidae,扁蝸牛科,Acusta,,toyenmongaiensis,Acusta toyenmongaiensis,臺南球蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Mesogastropoda,中腹足目,Diplommatinidae,芝麻蝸牛科,Diplommatina,芝麻蝸牛屬,tatakaensis,Diplommatina tatakaensis,松崗芝麻蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Mesogastropoda,中腹足目,Diplommatinidae,芝麻蝸牛科,Diplommatina,芝麻蝸牛屬,karenkoensis,Diplommatina karenkoensis,花蓮芝麻蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Mesogastropoda,中腹足目,Diplommatinidae,芝麻蝸牛科,Diplommatina,芝麻蝸牛屬,dandanensis,Diplommatina dandanensis,暖暖芝麻蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Mesogastropoda,中腹足目,Cyclophoridae,山蝸牛科,Cyclophorus,,formosaensis,Cyclophorus formosaensis,臺灣大山蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Mesogastropoda,中腹足目,Assimineidae,山椒蝸牛科,Assiminea,山椒螺屬,hayashii,Assiminea hayashii,小林氏山椒蝸,1
+Animalia,動物界,Mollusca,軟體動物門,Gastropoda,腹足綱,Archaeogastropoda,原始腹足目,Helicinidae,虫昌蝸牛科,Aphanoconia,,badia,Aphanoconia badia,小虫昌蝸,1
+Animalia,動物界,Cnidaria,刺胞動物門,Anthozoa,珊瑚蟲綱,Scleractinia,石珊瑚目,Fungiidae,蕈珊瑚科,Fungia (Pleuractis),蕈珊瑚屬,taiwanensis,Fungia (Pleuractis) taiwanensis,臺灣蕈珊瑚,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Viperidae,蝮蛇科,Trimeresurus,,gracilis,Trimeresurus gracilis,菊池氏龜殼花;臺灣烙鐵頭,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Typhlopidae,盲蛇科,Typhlops,,koshunensis,Typhlops koshunensis,恆春盲蛇;大盲蛇,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Scincidae,石龍子科,Sphenomorphus,,taiwanensis,Sphenomorphus taiwanensis,臺灣蜓蜥,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Scincidae,石龍子科,Scincella,,formosensis,Scincella formosensis,臺灣滑蜥,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Scincidae,石龍子科,Plestiodon,,chinensis,Plestiodon chinensis,白斑石龍子,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Scincidae,石龍子科,Eumeces,,chinensis,Eumeces chinensis formosensis,臺灣中國石龍子,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Lacertidae,正蜥科,Takydromus,,stejnegeri,Takydromus stejnegeri,蓬萊草蜥;史丹吉氏草蜥,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Lacertidae,正蜥科,Takydromus,,sauteri,Takydromus sauteri,梭德氏草蜥;梭德氏舅母蛇;南臺草蜥,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Lacertidae,正蜥科,Takydromus,,hsuehshanesis,Takydromus hsuehshanesis,雪山草蜥,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Lacertidae,正蜥科,Takydromus,,formosanus,Takydromus formosanus,臺灣草蜥,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Gekkonidae,壁虎科,Lepidodactylus,,yami,Lepidodactylus yami,雅美鱗趾虎;臺灣鱗趾虎;雅美鱗趾蝎虎,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Gekkonidae,壁虎科,Gekko,,kikuchii,Gekko kikuchii,菊池氏壁虎;菊池氏守宮;蘭嶼守宮;蘭嶼壁虎,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Elapidae,蝙蝠蛇科,Hemibugnarus,,sauteri,Hemibugnarus sauteri,帶紋赤蛇;臺灣麗紋蛇,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Colubridae,黃頷蛇科,Rhabdophis,,swinhonis,Rhabdophis swinhonis,斯文豪氏游蛇;臺灣游蛇;臺灣頸槽蛇,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Colubridae,黃頷蛇科,Pareas,,formosensis,Pareas formosensis,臺灣鈍頭蛇;脊高蛇,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Colubridae,黃頷蛇科,Amphiesma,,miyajimae,Amphiesma miyajimae,金絲蛇;臺北游蛇;臺北腹鏈蛇,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Colubridae,黃頷蛇科,Achalinus,,niger,Achalinus niger,標蛇;阿里山脊蛇,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Anguidae,蛇蜥科,Ophisaurus,,formosensis,Ophisaurus formosensis,臺灣蛇蜥,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Agamidae,飛蜥科,Japalura,,swinhonis,Japalura swinhonis,斯文豪氏攀蜥,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Agamidae,飛蜥科,Japalura,,makii,Japalura makii,牧氏攀蜥,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Agamidae,飛蜥科,Japalura,,luei,Japalura luei,呂氏攀蜥,1
+Animalia,動物界,Chordata,脊索動物門,Reptilia,爬蟲綱,Squamata,有鱗目,Agamidae,飛蜥科,Japalura,,brevipes,Japalura brevipes,短肢攀蜥,1
+Animalia,動物界,Chordata,脊索動物門,Myxini,盲鰻綱,Myxiniformes,盲鰻目,Myxinidae,盲鰻科,Paramyxine,副盲鰻屬,yangi,Paramyxine yangi,楊氏副盲鰻;青眠鰻;無目鰻;鰻背;龍筋,1
+Animalia,動物界,Chordata,脊索動物門,Myxini,盲鰻綱,Myxiniformes,盲鰻目,Myxinidae,盲鰻科,Paramyxine,副盲鰻屬,wisneri,Paramyxine wisneri,懷氏副盲鰻;青眠鰻;無目鰻;鰻背;龍筋,1
+Animalia,動物界,Chordata,脊索動物門,Myxini,盲鰻綱,Myxiniformes,盲鰻目,Myxinidae,盲鰻科,Paramyxine,副盲鰻屬,taiwanae,Paramyxine taiwanae,臺灣副盲鰻;青眠鰻;無目鰻;鰻背;龍筋,1
+Animalia,動物界,Chordata,脊索動物門,Myxini,盲鰻綱,Myxiniformes,盲鰻目,Myxinidae,盲鰻科,Paramyxine,副盲鰻屬,sheni,Paramyxine sheni,沈氏副盲鰻;青眠鰻;無目鰻;鰻背;龍筋,1
+Animalia,動物界,Chordata,脊索動物門,Myxini,盲鰻綱,Myxiniformes,盲鰻目,Myxinidae,盲鰻科,Paramyxine,副盲鰻屬,nelsoni,Paramyxine nelsoni,紐氏副盲鰻;青眠鰻;無目鰻;鰻背;龍筋,1
+Animalia,動物界,Chordata,脊索動物門,Myxini,盲鰻綱,Myxiniformes,盲鰻目,Myxinidae,盲鰻科,Paramyxine,副盲鰻屬,fernholmi,Paramyxine fernholmi,費氏副盲鰻;青眠鰻;無目鰻;鰻背;龍筋,1
+Animalia,動物界,Chordata,脊索動物門,Myxini,盲鰻綱,Myxiniformes,盲鰻目,Myxinidae,盲鰻科,Paramyxine,副盲鰻屬,cheni,Paramyxine cheni,陳氏副盲鰻;青眠鰻;無目鰻;鰻背;龍筋,1
+Animalia,動物界,Chordata,脊索動物門,Myxini,盲鰻綱,Myxiniformes,盲鰻目,Myxinidae,盲鰻科,Myxine,盲鰻屬,kuoi,Myxine kuoi,郭氏盲鰻;青眠鰻;無目鰻;鰻背;龍筋,1
+Animalia,動物界,Chordata,脊索動物門,Myxini,盲鰻綱,Myxiniformes,盲鰻目,Myxinidae,盲鰻科,Myxine,盲鰻屬,formosana,Myxine formosana,臺灣盲鰻;青眠鰻;無目鰻;鰻背;龍筋,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Rodentia,嚙齒目,Sciuridae,松鼠科,Tamiops,,maritimus,Tamiops maritimus formosanus,條紋松鼠;臺灣帶紋松鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Rodentia,嚙齒目,Sciuridae,松鼠科,Petaurista,,philippensis,Petaurista philippensis grandis,大赤鼯鼠;飛鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Rodentia,嚙齒目,Sciuridae,松鼠科,Petaurista,,alborufus,Petaurista alborufus lena,白面鼯鼠;飛鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Rodentia,嚙齒目,Sciuridae,松鼠科,Dremomys,,pernyi,Dremomys pernyi owstoni,長吻松鼠;荷氏松鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Rodentia,嚙齒目,Sciuridae,松鼠科,Belomys,,pearsonii,Belomys pearsonii kaleensis,小鼯鼠;臺灣小鼯鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Rodentia,嚙齒目,Muridae,鼠科,Niviventer,,culturatus,Niviventer culturatus,高山白腹鼠;臺灣高山白腹鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Rodentia,嚙齒目,Muridae,鼠科,Niviventer,,coxingi,Niviventer coxingi,刺鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Rodentia,嚙齒目,Muridae,鼠科,Niviventer,,coninga,Niviventer coninga,臺灣刺鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Rodentia,嚙齒目,Muridae,鼠科,Apodemus,,semotus,Apodemus semotus,臺灣森鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Rodentia,嚙齒目,Cricetidae,倉鼠科,Microtus,,kikuchii,Microtus kikuchii,臺灣高山田鼠;菊池氏煙鼠;高山田鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Primate,靈長目,Cercopithecidae,獼猴科,Macaca,獼猴屬,cyclopis,Macaca cyclopis,臺灣獼猴,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Pholidota,鱗甲目,Manidae,穿山甲科,Manis,,pentadactyla,Manis pentadactyla pentadactyla,穿山甲;中國鯪鯉;悶仔;土龜,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Lagomorpha,兔形目,Leporidae,兔科,Lepus,,sinensis,Lepus sinensis formosus,臺灣野兔;山兔;臺灣野兔,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Talpidae,鼴鼠科,Mogera,鼴鼠屬,kanoana,Mogera kanoana,鹿野氏鼴鼠;臺灣高山鼴鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Talpidae,鼴鼠科,Mogera,鼴鼠屬,insularis,Mogera insularis insularis,臺灣鼴鼠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Soriculus,,sodalis,Soriculus sodalis,細尾長尾鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Episoriculus,,fumidus,Episoriculus fumidus,臺灣長尾鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Crocidura,,tanakae,Crocidura tanakae,臺灣灰麝鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Crocidura,,tadae,Crocidura tadae,長尾麝鼩;臺灣長尾麝鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Crocidura,,suaveolens,Crocidura suaveolens,小麝鼩;臺灣小麝鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Crocidura,,shantungensis,Crocidura shantungensis hosletti,荷氏小麝鼩;小麝鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Crocidura,,rapax,Crocidura rapax tadae,蘭嶼長尾麝鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Crocidura,,rapax,Crocidura rapax lutaoensis,綠島長尾麝鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Crocidura,,rapax,Crocidura rapax kurodai,臺灣長尾麝鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Crocidura,,rapax,Crocidura rapax,長尾麝鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Crocidura,,attenuata,Crocidura attenuata tanakae,臺灣灰鼩鼱,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Chodsigoa,,sodalis,Chodsigoa sodalis,細尾長尾鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Anourosorex,,yamashinai,Anourosorex yamashinai,短尾鼩;臺灣短尾鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Insectivora,食蟲目,Soricidae,尖鼠科,Anourosorex,,squamipes,Anourosorex squamipes yamashinai,山階氏鼩鼱;短尾鼩,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Plecotus,,taivanus,Plecotus taivanus,臺灣長耳蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Myotis,鼠耳蝠屬,sp. 1,Myotis sp. 1,白腹鼠耳蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Myotis,鼠耳蝠屬,rufoniger,Myotis rufoniger watasei,渡瀨氏鼠耳蝠;黑支蝙蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Myotis,鼠耳蝠屬,muricola,Myotis muricola latirostris,寬吻鼠耳蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Myotis,鼠耳蝠屬,formosus,Myotis formosus flavus,金黃鼠耳蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Myotis,鼠耳蝠屬,adversus,Myotis adversus taiwanensis,臺灣鼠耳蝠;臺灣鼠耳蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Murina,管鼻蝠屬,sp.,Murina sp.,高山管鼻蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Murina,管鼻蝠屬,recondita,Murina recondita,隱姬管鼻蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Murina,管鼻蝠屬,puta,Murina puta,臺灣管鼻蝠;管鼻蝠;臺灣管鼻蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Murina,管鼻蝠屬,gracilis,Murina gracilis,姬管鼻蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Murina,管鼻蝠屬,bicolor,Murina bicolor,黃胸管鼻蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Harpiola,,isodon,Harpiola isodon,金芒管鼻蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Harpiola,,grisea,Harpiola grisea isodon,金芒管鼻蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Eptesicus,,serotinus,Eptesicus serotinus horikawai,崛川氏棕蝠;棕蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Barbastella,,leucomelas,Barbastella leucomelas,寬耳蝠;臺灣寬耳蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Vespertilionidae,蝙蝠科,Arielulus,,torquatus,Arielulus torquatus,黃頸蝠;黃喉家蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Rhinolophidae,蹄鼻蝠科,Rhinolophus,,monoceros,Rhinolophus monoceros,臺灣小蹄鼻蝠;單角菊頭蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Rhinolophidae,蹄鼻蝠科,Rhinolophus,,formosae,Rhinolophus formosae,臺灣大蹄鼻蝠;臺灣菊頭蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Pteropodidae,大蝙蝠科,Pteropus,,dasymallus,Pteropus dasymallus formosus,臺灣狐蝠;臺灣大蝙蝠;飛蝠;狐蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Hipposideridae,葉鼻蝠科,Hipposideros,,terasensis,Hipposideros terasensis,臺灣葉鼻蝠;臺灣神樂蝙蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Chiroptera,翼手目,Hipposideridae,葉鼻蝠科,Coelops,,frithii,Coelops frithii formosanus,臺灣無尾葉鼻蝠;臺灣無尾葉鼻蝠;無尾葉鼻蝠,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Viverridae,靈貓科,Viverricula,,indica,Viverricula indica taivana,麝香貓;小靈貓,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Viverridae,靈貓科,Paguma,,larvata,Paguma larvata taivana,白鼻心;菓子貍,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Ursidae,熊科,Ursus,,thibetanus,Ursus thibetanus formosanus,臺灣黑熊;臺灣黑熊;黑熊,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Mustelidae,貂科,Mustela,,sibirica,Mustela sibirica taivana,黃鼠狼;華南鼬鼠;黃鼬;竹竿貍,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Mustelidae,貂科,Mustela,,sibirica,Mustela sibirica davidiana,華南鼬鼠;黃鼠狼,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Mustelidae,貂科,Mustela,,formosanus,Mustela formosanus,臺灣小黃鼠狼;臺灣高山小黃鼠狼;臺灣小黃鼠狼;臺灣高山小黃鼠狼,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Mustelidae,貂科,Melogale,,moschata,Melogale moschata subaurantiaca,鼬貛;鼬獾;臭貍,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Mustelidae,貂科,Martes,,flavigula,Martes flavigula chrysospila,黃喉貂;姜仔虎;黃頸鼬,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Felidae,貓科,Prionailurus,,bengalensis,Prionailurus bengalensis,石虎;華南豹貓;豹貓;山貓;金錢貓,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Carnivora,食肉目,Felidae,貓科,Neofelis,,nebulosa,Neofelis nebulosa brachyura,臺灣雲豹;臺灣雲豹;雲豹,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Artiodactyla,偶蹄目,Suidae,豬科,Sus,,scrofa,Sus scrofa taivanus,臺灣野豬;臺灣野豬;山豬,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Artiodactyla,偶蹄目,Cervidae,鹿科,Rusa,,unicolor,Rusa unicolor swinhoei,臺灣水鹿;臺灣水鹿;水鹿,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Artiodactyla,偶蹄目,Cervidae,鹿科,Muntiacus,,reevesi,Muntiacus reevesi micrurus,臺灣山羌;麂;羌仔;山羌,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Artiodactyla,偶蹄目,Cervidae,鹿科,Cervus,,unicolor,Cervus unicolor swinhoei,水鹿;四目鹿,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Artiodactyla,偶蹄目,Cervidae,鹿科,Cervus,,nippon,Cervus nippon taiouanus,臺灣梅花鹿;臺灣梅花鹿;梅花鹿,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Artiodactyla,偶蹄目,Bovidae,牛科,Naemorhedus,,swinhoei,Naemorhedus swinhoei,臺灣山羊;長鬃山羊;臺灣野山羊;山羊,1
+Animalia,動物界,Chordata,脊索動物門,Mammalia,哺乳綱,Artiodactyla,偶蹄目,Bovidae,牛科,Capricornis,,swinhoei,Capricornis swinhoei,臺灣野山羊;臺灣長鬃山羊;臺灣長鬃山羊,1
+Animalia,動物界,Chordata,脊索動物門,Chondrichthyes,軟骨魚綱,Torpediniformes,電鱝目,Torpedinidae,電鱝科,Torpedo,電鰩屬,formosa,Torpedo formosa,臺灣電鱝;珍電鰩;電魴;雷魚,1
+Animalia,動物界,Chordata,脊索動物門,Chondrichthyes,軟骨魚綱,Torpediniformes,電鱝目,Narcinidae,雙鰭電鱝科,Benthobatis,深海電鰩屬,yangi,Benthobatis yangi,楊氏深海電鱝;深海電鰩;電魴;雷魚,1
+Animalia,動物界,Chordata,脊索動物門,Chondrichthyes,軟骨魚綱,Rajiformes,鯆魮目,Rhinobatidae,琵琶鱝科,Rhinobatos,犁頭鰩屬,microphthalmus,Rhinobatos microphthalmus,小眼琵琶鱝;小眼犁頭鰩;飯匙鯊;魴仔,1
+Animalia,動物界,Chordata,脊索動物門,Chondrichthyes,軟骨魚綱,Orectolobiformes,鬚鮫目,Parascylliidae,喉鬚鮫科,Cirrhoscyllium,橙黃鯊屬,formosanum,Cirrhoscyllium formosanum,臺灣喉鬚鮫;臺灣橙黃鯊;沙條,1
+Animalia,動物界,Chordata,脊索動物門,Chondrichthyes,軟骨魚綱,Myliobatiformes,燕魟目,Dasyatidae,土魟科,Himantura,窄尾魟屬,microphthalma,Himantura microphthalma,小眼魟;魴仔,1
+Animalia,動物界,Chordata,脊索動物門,Chondrichthyes,軟骨魚綱,Carcharhiniformes,白眼鮫目,Scyliorhinidae,貓鮫科,Cephaloscyllium,絨毛鯊屬,pardelotum,Cephaloscyllium pardelotum,豹紋頭鮫;沙條,1
+Animalia,動物界,Chordata,脊索動物門,Chondrichthyes,軟骨魚綱,Carcharhiniformes,白眼鮫目,Scyliorhinidae,貓鮫科,Cephaloscyllium,絨毛鯊屬,maculatum,Cephaloscyllium maculatum,花斑頭鮫;沙條,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Turniciformes,三趾鶉目,Turnicidae,三趾鶉科,Turnix,三趾鶉屬,suscitator,Turnix suscitator,棕三趾鶉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Tytonidae,草鴞科,Tyto,草鴞屬,capensis,Tyto capensis,草鴞,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Otus,角鴞屬,spilocephalus,Otus spilocephalus,黃嘴角鴞,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Strigiformes,鴞形目,Strigidae,鴟鴞科,Otus,角鴞屬,elegans,Otus elegans,優雅角鴞;蘭嶼角鴞,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Piciformes,鴷形目,Ramphastidae,鬚鴷科,Megalaima,擬鴷屬,nuchalis,Megalaima nuchalis,五色鳥,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Piciformes,鴷形目,Picidae,啄木鳥科,Dendrocopos,啄木鳥屬,leucotos,Dendrocopos leucotos,大赤啄木,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Turdidae,鶇科,Turdus,鶇屬,poliocephalus,Turdus poliocephalus,白頭鶇,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Turdidae,鶇科,Myophonus,嘯鶇屬,insularis,Myophonus insularis,臺灣紫嘯鶇;紫嘯鶇,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Turdidae,鶇科,Brachypteryx,短翅鶇屬,montana,Brachypteryx montana,小翼鶇,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Troglodytidae,鷦鷯科,Troglodytes,鷦鷯屬,troglodytes,Troglodytes troglodytes,鷦鷯,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Yuhina,鳳鶥屬,brunneiceps,Yuhina brunneiceps,冠羽鳳鶥;冠羽畫眉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Stachyris,穗鶥屬,ruficeps,Stachyris ruficeps,紅頭穗鶥;山紅頭,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Pomatorhinus,彎嘴鶥屬,ruficollis,Pomatorhinus ruficollis,小彎嘴鶥;小彎嘴,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Pomatorhinus,彎嘴鶥屬,erythrogenys,Pomatorhinus erythrogenys,大彎嘴鶥;大彎嘴,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Pnoepyga,鱗胸鷦鶥屬,albiventer,Pnoepyga albiventer,鱗胸鷦鶥;小鷦眉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Paradoxornis,鴉雀屬,webbianus,Paradoxornis webbianus,棕頭鴉雀;粉紅鸚嘴,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Paradoxornis,鴉雀屬,verreauxi,Paradoxornis verreauxi,黃羽鴉雀;黃羽鸚嘴,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Liocichla,藪鶥屬,steerii,Liocichla steerii,黃痣藪鶥;藪鳥;黃胸藪眉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Heterophasia,奇鶥屬,auricularis,Heterophasia auricularis,白耳奇鶥;白耳畫眉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Garrulax,噪鶥屬,taewanus,Garrulax taewanus,臺灣畫眉;畫眉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Garrulax,噪鶥屬,poecilorhynchus,Garrulax poecilorhynchus,棕噪鶥;竹鳥,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Garrulax,噪鶥屬,morrisonianus,Garrulax morrisonianus,臺灣噪鶥;金翼白眉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Garrulax,噪鶥屬,albogularis,Garrulax albogularis,白喉噪鶥;白喉噪眉;白喉笑鶇,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Alcippe,雀鶥屬,morrisonia,Alcippe morrisonia,繡眼雀鶥;繡眼畫眉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Alcippe,雀鶥屬,cinereiceps,Alcippe cinereiceps,紋喉雀鶥;灰頭花翼,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Alcippe,雀鶥屬,brunnea,Alcippe brunnea,烏線雀鶥;頭烏線,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Timaliidae,畫眉科,Actinodura,斑翅鶥屬,morrisoniana,Actinodura morrisoniana,臺灣斑翅鶥;紋翼畫眉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Sylviidae,鶯科,Cettia,樹鶯屬,fortipes,Cettia fortipes,強腳樹鶯;臺灣小鶯,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Sylviidae,鶯科,Cettia,樹鶯屬,acanthizoides,Cettia acanthizoides,黃腹樹鶯;深山鶯,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Sylviidae,鶯科,Bradypterus,短翅鶯屬,alishanensis,Bradypterus alishanensis,臺灣短翅鶯;臺灣叢樹鶯,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Sturnidae,八哥科,Acridotheres,八哥屬,cristatellus,Acridotheres cristatellus,八哥,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Reguliidae,戴菊科,Regulus,戴菊屬,goodfellowi,Regulus goodfellowi,臺灣戴菊;火冠戴菊,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Pycnonotidae,鵯科,Spizixos,鸚嘴鵯屬,semitorques,Spizixos semitorques,白環鸚嘴鵯,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Pycnonotidae,鵯科,Pycnonotus,鵯屬,taivanus,Pycnonotus taivanus,烏頭翁,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Pycnonotidae,鵯科,Pycnonotus,鵯屬,sinensis,Pycnonotus sinensis,白頭翁,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Pycnonotidae,鵯科,Microscelis,棕耳鵯屬,amaurotis,Microscelis amaurotis,棕耳鵯,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Pycnonotidae,鵯科,Hypsipetes,短腳鵯屬,leucocephalus,Hypsipetes leucocephalus,紅嘴黑鵯,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Prunellidae,岩鷚科,Prunella,岩鷚屬,collaris,Prunella collaris,岩鷚,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Paridae,山雀科,Parus,山雀屬,varius,Parus varius,赤腹山雀,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Paridae,山雀科,Parus,山雀屬,monticolus,Parus monticolus,綠背山雀;青背山雀,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Paridae,山雀科,Parus,山雀屬,holsti,Parus holsti,黃山雀,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Paridae,山雀科,Parus,山雀屬,ater,Parus ater,煤山雀,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Oriolidae,黃鸝科,Oriolus,黃鸝屬,traillii,Oriolus traillii,朱鸝,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Muscicapidae,鶲科,Rhyacornis,水鴝屬,fuliginosa,Rhyacornis fuliginosa,鉛色水鴝;鉛色水鶇,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Muscicapidae,鶲科,Niltava,仙鶲屬,vivida,Niltava vivida,黃腹仙鶲;黃腹琉璃,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Muscicapidae,鶲科,Myiomela,藍地鴝屬,leucura,Myiomela leucura,白尾鴝,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Muscicapidae,鶲科,Luscinia,歌鴝屬,johnstoniae,Luscinia johnstoniae,栗背林鴝;阿里山鴝,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Muscicapidae,鶲科,Luscinia,歌鴝屬,indica,Luscinia indica,白眉林鴝,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Muscicapidae,鶲科,Ficedula,姬鶲屬,hyperythra,Ficedula hyperythra,黃胸姬鶲;黃胸青鶲,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Monarchidae,王鶲科,Hypothymis,黒枕王鶲屬,azurea,Hypothymis azurea,黑枕王鶲;黑枕藍鶲,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Fringillidae,雀科,Pyrrhula,灰雀屬,nipalensis,Pyrrhula nipalensis,褐灰雀;褐鷽,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Fringillidae,雀科,Pyrrhula,灰雀屬,erythaca,Pyrrhula erythaca,灰頭灰雀;灰鷽,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Fringillidae,雀科,Carpodacus,朱雀屬,vinaceus,Carpodacus vinaceus,酒紅朱雀,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Dicruridae,卷尾科,Dicrurus,卷尾屬,macrocercus,Dicrurus macrocercus,大卷尾,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Dicruridae,卷尾科,Dicrurus,卷尾屬,aeneus,Dicrurus aeneus,小卷尾,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Dicaeidae,啄花科,Dicaeum,啄花屬,ignipectum,Dicaeum ignipectum,紅胸啄花;紅胸啄花鳥,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Dicaeidae,啄花科,Dicaeum,啄花屬,concolor,Dicaeum concolor,綠啄花;綠啄花鳥,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Corvidae,鴉科,Urocissa,藍鵲屬,caerulea,Urocissa caerulea,臺灣藍鵲,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Corvidae,鴉科,Nucifraga,星鴉屬,caryocatactes,Nucifraga caryocatactes,星鴉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Corvidae,鴉科,Garrulus,松鴉屬,glandarius,Garrulus glandarius,松鴉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Corvidae,鴉科,Dendrocitta,樹鵲屬,formosae,Dendrocitta formosae,灰樹鵲;樹鵲,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Cisticolidae,扇尾鶯科,Prinia,鷦鶯屬,inornata,Prinia inornata,褐頭鷦鶯,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Cisticolidae,扇尾鶯科,Prinia,鷦鶯屬,crinigera,Prinia crinigera,斑紋鷦鶯,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Passeriformes,燕雀目,Cisticolidae,扇尾鶯科,Cisticola,扇尾鶯屬,exilis,Cisticola exilis,黃頭扇尾鶯,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Gruiformes,鶴形目,Rallidae,秧雞科,Rallina,斑秧雞屬,eurizonoides,Rallina eurizonoides,灰腳斑秧雞;灰腳秧雞,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Gruiformes,鶴形目,Rallidae,秧雞科,Gallirallus,紋秧雞屬,striatus,Gallirallus striatus,灰胸紋秧雞;灰胸秧雞,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Galliformes,雞形目,Phasianidae,雉科,Syrmaticus,長尾雉屬,mikado,Syrmaticus mikado,黑長尾雉;帝雉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Galliformes,雞形目,Phasianidae,雉科,Phasianus,雉屬,colchicus,Phasianus colchicus,環頸雉,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Galliformes,雞形目,Phasianidae,雉科,Lophura,鷴屬,swinhoii,Lophura swinhoii,藍腹鷴,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Galliformes,雞形目,Phasianidae,雉科,Bambusicola,竹雞屬,thoracicus,Bambusicola thoracicus,竹雞,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Galliformes,雞形目,Phasianidae,雉科,Arborophila,山鷓鴣屬,crudigularis,Arborophila crudigularis,臺灣山鷓鴣;深山竹雞,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Columbiformes,鴿形目,Columbidae,鳩鴿科,Treron,綠鳩屬,sieboldii,Treron sieboldii,綠鳩,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Columbiformes,鴿形目,Columbidae,鳩鴿科,Treron,綠鳩屬,formosae,Treron formosae,紅頭綠鳩,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Columbiformes,鴿形目,Columbidae,鳩鴿科,Streptopelia,斑鳩屬,orientalis,Streptopelia orientalis,金背鳩,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Ciconiiformes,鸛形目,Accipitridae,鷹科,Spilornis,蛇鵰屬,cheela,Spilornis cheela,蛇鵰;大冠鷲,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Ciconiiformes,鸛形目,Accipitridae,鷹科,Accipiter,鷹屬,virgatus,Accipiter virgatus,松雀鷹,1
+Animalia,動物界,Chordata,脊索動物門,Aves,鳥綱,Ciconiiformes,鸛形目,Accipitridae,鷹科,Accipiter,鷹屬,trivirgatus,Accipiter trivirgatus,鳳頭蒼鷹,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Caudata,有尾目,Hynobiidae,山椒魚科,Hynobius,,sonani,Hynobius sonani,楚南氏山椒魚,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Caudata,有尾目,Hynobiidae,山椒魚科,Hynobius,,glacialis,Hynobius glacialis,南湖山椒魚,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Caudata,有尾目,Hynobiidae,山椒魚科,Hynobius,,fuca,Hynobius fuca,觀霧山椒魚,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Caudata,有尾目,Hynobiidae,山椒魚科,Hynobius,,formosanus,Hynobius formosanus,臺灣山椒魚,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Caudata,有尾目,Hynobiidae,山椒魚科,Hynobius,,arisanensis,Hynobius arisanensis,阿里山山椒魚,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Rhacophorus,,taipeianus,Rhacophorus taipeianus,臺北樹蛙,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Rhacophorus,,prasinatus,Rhacophorus prasinatus,翡翠樹蛙,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Rhacophorus,,moltrechti,Rhacophorus moltrechti,莫氏樹蛙,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Rhacophorus,,aurantiventris,Rhacophorus aurantiventris,橙腹樹蛙,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Rhacophorus,,arvalis,Rhacophorus arvalis,諸羅樹蛙,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Kurixalus,,idiootocus,Kurixalus idiootocus,面天樹蛙,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Rhacophoridae,樹蛙科,Buergeria,,robusta,Buergeria robusta,褐樹蛙,1
+Animalia,動物界,Chordata,脊索動物門,Amphibia,兩生綱,Anura,無尾目,Bufonidae,蟾蜍科,Bufo,,bankorensis,Bufo bankorensis,盤古蟾蜍,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Stomiiformes,巨口魚目,Stomiidae,巨口魚科,Astronesthes,星衫魚屬,formosana,Astronesthes formosana,臺灣星衫魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Siluriformes,鯰形目,Bagridae,鮠科,Pseudobagrus,擬鱨屬,brevianalis taiwanensis,Pseudobagrus brevianalis taiwanensis,臺灣鮠;臺灣擬鱨;三角鉤;三角姑,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Siluriformes,鯰形目,Bagridae,鮠科,Pseudobagrus,擬鱨屬,brevianalis brevianalis,Pseudobagrus brevianalis brevianalis,短臂鮠;短臂擬鱨;日月潭鮠;三角鉤;三角姑,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Siluriformes,鯰形目,Amblycipitidae,鮰科,Liobagrus,屬,nantoensis,Liobagrus nantoensis,南投鮰;南投;紅噹仔;黃蜂,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Siluriformes,鯰形目,Amblycipitidae,鮰科,Liobagrus,屬,formosanus,Liobagrus formosanus,臺灣鮰;臺灣;紅噹仔;黃蜂,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Scorpaeniformes,鮋形目,Scorpaenidae,鮋科,Scorpaena,鮋屬,pepo,Scorpaena pepo,南瓜鮋;石狗公;石頭魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Scorpaeniformes,鮋形目,Scorpaenidae,鮋科,Ocosia,線鮋屬,spinosa,Ocosia spinosa,棘裸絨鮋;棘線鮋;石狗公;石頭魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Scorpaeniformes,鮋形目,Aploactinidae,絨皮鮋科,Erisphex,虻鮋屬,simplex,Erisphex simplex,平滑絨鮋;平滑虻鮋;虎魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Salmoniformes,鮭形目,Salmonidae,鮭科,Oncorhynchus,大麻哈魚屬,masou formosanus,Oncorhynchus masou formosanus,臺灣櫻花鉤吻鮭;臺灣馬蘇大麻哈魚;櫻花鉤吻鮭;臺灣鱒;大甲鱒;梨山鱒,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Pleuronectiformes,鰈形目,Samaridae,冠鰈科,Samariscus,沙鰈屬,filipectoralis,Samariscus filipectoralis,絲鰭沙鰈;扁魚;皇帝魚;半邊魚;比目魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Pleuronectiformes,鰈形目,Paralichthyidae,牙鮃科,Pseudorhombus,斑?屬,ctenosquamis,Pseudorhombus ctenosquamis,櫛鱗斑鮃;扁魚;皇帝魚;半邊魚;比目魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Tripterygiidae,三鰭鳚科,Enneapterygius,雙線鳚屬,sheni,Enneapterygius sheni,沈氏雙線鳚;狗鰷;三鰭鳚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Tripterygiidae,三鰭鳚科,Enneapterygius,雙線鳚屬,shaoi,Enneapterygius shaoi,邵氏雙線鳚;狗鰷;三鰭鳚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Tripterygiidae,三鰭鳚科,Enneapterygius,雙線鳚屬,cheni,Enneapterygius cheni,陳氏雙線鳚;狗鰷;三鰭鳚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Sillaginidae,沙鮻科,Sillago,鱚屬,microps,Sillago microps,小眼沙鮻;小眼鱚;沙腸仔;kiss 魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Serranidae,鮨科,Plectranthias,棘花鮨屬,sheni,Plectranthias sheni,沈氏棘花鱸;花鱸,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Opistognathidae,後頜魚科,Stalix,叉棘鰧屬,sheni,Stalix sheni,沈氏艾棘魚;沈氏叉棘鰧;叉棘鱚;狗旗仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Labridae,隆頭魚科,Pseudocoris,擬盔魚屬,ocellata,Pseudocoris ocellata,眼斑擬盔魚;側斑擬盔魚;側斑擬鸚鯛;黃彩龍;汕冷仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Rhinogobius,吻鰕虎魚屬,nantaiensis,Rhinogobius nantaiensis,南台吻鰕虎;南台吻鰕虎魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Rhinogobius,吻鰕虎魚屬,nagoyae formosanus,Rhinogobius nagoyae formosanus,臺灣明古屋吻鰕虎,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Rhinogobius,吻鰕虎魚屬,maculafasciatus,Rhinogobius maculafasciatus,斑帶吻鰕虎;斑帶吻鰕虎魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Rhinogobius,吻鰕虎魚屬,lanyuensis,Rhinogobius lanyuensis,蘭嶼吻鰕虎;蘭嶼吻鰕虎魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Rhinogobius,吻鰕虎魚屬,henchuenensis,Rhinogobius henchuenensis,恆春吻鰕虎;恆春吻鰕虎魚魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Rhinogobius,吻鰕虎魚屬,gigas,Rhinogobius gigas,大吻鰕虎;大吻鰕虎魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Rhinogobius,吻鰕虎魚屬,delicatus,Rhinogobius delicatus,細斑吻鰕虎;細斑吻鰕虎魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Rhinogobius,吻鰕虎魚屬,candidianus,Rhinogobius candidianus,明潭吻鰕虎;明潭吻鰕虎魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Ctenogobiops,櫛眼鰕虎魚屬,formosa,Ctenogobiops formosa,臺灣櫛鰕虎;臺灣櫛眼鰕虎魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Callogobius,美鰕虎魚屬,sheni,Callogobius sheni,沈氏硬皮鰕虎,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Amblyeleotris,鈍塘鱧屬,taipinensis,Amblyeleotris taipinensis,太平島鈍鯊;太平島鈍塘鱧,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Perciformes,鱸形目,Gobiidae,鰕虎科,Amblyeleotris,鈍塘鱧屬,bleekeri,Amblyeleotris bleekeri,布氏鈍鯊;布氏鈍塘鱧,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Gadiformes,鱈形目,Macrouridae,鼠尾鱈科,Coelorinchus,腔吻鱈屬,sheni,Coelorinchus sheni,鞍斑腔吻鱈;鱈魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Gadiformes,鱈形目,Macrouridae,鼠尾鱈科,Coelorinchus,腔吻鱈屬,leptorhinus,Coelorinchus leptorhinus,窄吻腔吻鱈;鱈魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Gadiformes,鱈形目,Macrouridae,鼠尾鱈科,Coelorinchus,腔吻鱈屬,brevirostris,Coelorinchus brevirostris,短吻腔吻鱈;鱈魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Gadiformes,鱈形目,Bregmacerotidae,海鰗鰍科,Bregmaceros,犀鱈屬,pescadorus,Bregmaceros pescadorus,澎湖犀鱈;海鰗鰍,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Zacco,鱲屬,pachycephalus,Zacco pachycephalus,粗首鱲;紅貓;苦槽仔;闊嘴郎;溪哥仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Squalidus,銀鮈屬,iijimae,Squalidus iijimae,飯島氏銀鮈;臺灣銀鮈;車栓仔;飯島氏麻魚;台銀鮈;南風魚;飯島氏頜鬚鮈;臺灣頜鬚鮈,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Squalidus,銀鮈屬,banarescui,Squalidus banarescui,巴氏銀鮈;車栓仔;中台銀鮈;班氏頜鬚鮈,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Spinibarbus,倒刺魮屬,hollandi,Spinibarbus hollandi,何氏棘鲃;光倒刺鲃;更仔;留仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Pararasbora,副細鯽屬,moltrechti,Pararasbora moltrechti,臺灣副細鯽;臺灣白魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Onychostoma,白甲魚屬,alticorpus,Onychostoma alticorpus,高身鏟頜魚;高體白甲魚;高身鯝魚;赦鮸;鮸仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Microphysogobio,小鰾鮈屬,brevirostris,Microphysogobio brevirostris,短吻小鰾鮈;短吻棒花魚;短吻鐮柄魚;車栓仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Microphysogobio,小鰾鮈屬,alticorpus,Microphysogobio alticorpus,高身小鰾鮈;車栓仔;高身棒花魚;高身鐮柄魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Metzia,梅氏鯿屬,mesembrina,Metzia mesembrina,大鱗梅氏鯿;車栓仔;大鱗黃鯝魚;大鱗鱎;高木氏細鯿;大鱗細鯿;大鱗麥氏鯿,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Metzia,梅氏鯿屬,formosae,Metzia formosae,臺灣梅氏鯿;車栓仔;臺灣黃鯝魚;臺灣細鯿;臺灣麥氏鯿,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Gobiobotia,鰍鮀屬,intermedia,Gobiobotia intermedia,中間鰍鮀;八鬚鯉,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Gobiobotia,鰍鮀屬,cheni,Gobiobotia cheni,陳氏鰍鮀;臺灣鰍鮀;八鬚鯉,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Candidia,鬚鱲屬,pingtungensis,Candidia pingtungensis,屏東馬口魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Candidia,鬚鱲屬,barbatus,Candidia barbatus,臺灣馬口魚;臺灣鬚鱲;憨仔魚;一枝花;山鰱仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Aphyocypris,細鯽屬,kikuchii,Aphyocypris kikuchii,菊池氏細鯽;菊池細鯽;美達卡;Medaka(臺東地方俗名）;散魚仔;吉氏細鯽;臺細鯽;瘦魚;車栓仔;竹篙鑣,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Cyprinidae,鯉科,Acrossocheilus,光唇魚屬,paradoxus,Acrossocheilus paradoxus,臺灣石;石賓光唇魚;石斑;石;秋斑,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Balitoridae,平鰭鰍科,Sinogastromyzon,華吸鰍屬,puliensis,Sinogastromyzon puliensis,埔里中華爬岩鰍;埔里中華吸鰍;簸箕魚;木箕貼仔;石貼仔;棕簑貼,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Balitoridae,平鰭鰍科,Sinogastromyzon,華吸鰍屬,nantaiensis,Sinogastromyzon nantaiensis,南臺中華爬岩鰍;南臺中華吸鰍;簸箕魚;木箕貼仔;石貼仔;棕簑貼,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Balitoridae,平鰭鰍科,Hemimyzon,間吸鰍屬,taitungensis,Hemimyzon taitungensis,臺東間爬岩鰍;臺東間吸鰍;石貼仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Balitoridae,平鰭鰍科,Hemimyzon,間吸鰍屬,sheni,Hemimyzon sheni,沈氏間爬岩鰍;沈氏間吸鰍;石貼仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Balitoridae,平鰭鰍科,Hemimyzon,間吸鰍屬,formosanum,Hemimyzon formosanum,臺灣間爬岩鰍;臺灣間吸鰍;臺灣石爬子;石貼仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Cypriniformes,鯉形目,Balitoridae,平鰭鰍科,Formosania,臺灣纓口屬,lacustre,Formosania lacustre,臺灣纓口鰍;鹿仔魚;花貼仔;石貼仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Beryciformes,金眼鯛目,Holocentridae,金鱗魚科,Ostichthys,骨鰃屬,sheni,Ostichthys sheni,沈氏骨鱗魚;沈氏骨鰃;金鱗甲;鐵甲兵;瀾公妾;鐵線婆,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Beryciformes,金眼鯛目,Holocentridae,金鱗魚科,Myripristis,鋸鱗魚屬,formosa,Myripristis formosa,臺灣松毬;美麗鋸鱗魚;厚殼仔;金鱗甲;鐵甲;鐵甲兵;瀾公妾;鐵線婆;大目仔,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Beryciformes,金眼鯛目,Berycidae,金眼鯛科,Centroberyx,擬棘鯛屬,rubricaudus,Centroberyx rubricaudus,紅尾棘金眼鯛;金眼擬棘鯛;紅魚;紅大目仔;紅三角仔;紅皮刀;厚殼,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Beloniformes,鶴鱵目,Hemiramphidae,鱵科,Hyporhamphus,下鱵魚屬,taiwanensis,Hyporhamphus taiwanensis,臺灣下鱵;臺灣下鱵魚;補網師;水針,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Aulopiformes,仙女魚目,Synodontidae,合齒魚科,Synodus,狗母魚屬,taiwanensis,Synodus taiwanensis,臺灣狗母;臺灣狗母魚;狗母梭;錦鱗蜥魚,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Synaphobranchidae,通鰓鰻科,Meadia,箭齒前肛鰻屬,roseni,Meadia roseni,羅氏箭齒前肛鰻;羅氏昏糯鰻,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Synaphobranchidae,通鰓鰻科,Dysomma,前肛鰻屬,opisthoproctus,Dysomma opisthoproctus,後臀前肛鰻,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Synaphobranchidae,通鰓鰻科,Dysomma,前肛鰻屬,longirostrum,Dysomma longirostrum,長吻前肛鰻,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Ophichthidae,蛇鰻科,Xyrias,列齒鰻屬,chioui,Xyrias chioui,邱氏列齒鰻;硬骨篡,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Ophichthidae,蛇鰻科,Ophichthus,蛇鰻屬,aphotistos,Ophichthus aphotistos,深海黑體蛇鰻;硬骨篡,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Ophichthidae,蛇鰻科,Myrophis,油鰻屬,cheni,Myrophis cheni,陳氏油鰻;硬骨篡,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Ophichthidae,蛇鰻科,Cirricaecula,無鰭蛇鰻屬,macdowelli,Cirricaecula macdowelli,麥氏無鰭蛇鰻;麥克氏無鰭蛇鰻;硬骨篡,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Ophichthidae,蛇鰻科,Brachysomophis,短體鰻屬,longipinnis,Brachysomophis longipinnis,長鰭短體蛇鰻;長鰭短體鰻;鰻;硬骨篡,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Muraenidae,鯙科,Gymnothorax,裸胸鱔屬,taiwanensis,Gymnothorax taiwanensis,臺灣裸胸鯙;錢鰻;薯鰻;虎鰻,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Muraenidae,鯙科,Gymnothorax,裸胸鱔屬,shaoi,Gymnothorax shaoi,邵氏裸胸鯙;錢鰻;薯鰻;虎鰻,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Muraenidae,鯙科,Gymnothorax,裸胸鱔屬,niphostigmus,Gymnothorax niphostigmus,雲花斑裸胸鯙;雪花斑裸胸鱔;錢鰻;薯鰻;虎鰻,1
+Animalia,動物界,Chordata,脊索動物門,Actinopterygii,條鰭魚綱,Anguilliformes,鰻形目,Muraenidae,鯙科,Cirrimaxilla,頜鬚鱔屬,formosa,Cirrimaxilla formosa,臺灣鬍鯙;虎鰻;臺灣頜鬚鱔;錢鰻;薯鰻,1
+Animalia,動物界,Arthropoda,節肢動物門,Maxillopoda,顎足綱,Sessilia,無柄目,Verrucidae,花籠科,Altiverruca,,longimandible,Altiverruca longimandible,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Isopoda,等足目,Cymothoidae,,Ichthyoxenus,,fushanensis,Ichthyoxenus fushanensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Isopoda,等足目,Cymothoidae,,Ichthyoxenus,,formosanus,Ichthyoxenus formosanus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Isopoda,等足目,Cirolanidae,,Bathynomus,,decemspinosus,Bathynomus decemspinosus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Isopoda,等足目,Bopyridae,,Ione,,taiwanensis,Ione taiwanensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Isopoda,等足目,Aegidae,,Aega,,falcata,Aega falcata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Upogebiidae,螻姑蝦科,Upogebia,,takonesis,Upogebia takonesis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Upogebiidae,螻姑蝦科,Upogebia,,edentata,Upogebia edentata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Stylodactylidae,,Bathystylodactylus,,inflatus,Bathystylodactylus inflatus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Sicyoniidae,單肢蝦科,Sicyonia,,sp. nov. 2,Sicyonia sp. nov. 2,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Potamidae,溪蟹科,Geothelphusa,,albogilva,Geothelphusa albogilva,黃灰澤蟹,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Pilumnidae,毛刺蟹科,Cryptopilumnus,,taiwanensis,Cryptopilumnus taiwanensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Pandalidae,長額蝦科,Plesionika,,yui,Plesionika yui,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Pandalidae,長額蝦科,Plesionika,,taiwanica,Plesionika taiwanica,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Pandalidae,長額蝦科,Plesionika,,sp.nov. 4,Plesionika sp.nov. 4,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Pandalidae,長額蝦科,Pandalus,,formosanus,Pandalus formosanus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Pandalidae,長額蝦科,Pandalus,,chani,Pandalus chani,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Palinuridae,龍蝦科,Scyllarus,,formosanus,Scyllarus formosanus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Ocypodidae,沙蟹科,Uca,,formosensis,Uca formosensis,臺灣招潮蟹;鉸刀剪;大栱蟹,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Ocypodidae,沙蟹科,Ilyoplax,,formosensis,Ilyoplax formosensis,臺灣泥蟹,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Nephropidae,海螯蝦科,Metanephrops,,formosanus,Metanephrops formosanus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Nephropidae,海螯蝦科,Metanephrops,,armatus,Metanephrops armatus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Lithodidae,石蟹科,Lithodes,石蟹屬,formosae,Lithodes formosae,臺灣石蟹,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Grapsidae,方蟹科,Platyeriocheir,,formosa,Platyeriocheir formosa,臺灣扁絨螯蟹;青毛蟹,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Galatheidae,鎧甲蝦科,Munidopsis,仿刺鎧蝦屬,hirsutissima,Munidopsis hirsutissima,濃毛仿刺鎧蝦,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Galatheidae,鎧甲蝦科,Munidopsis,仿刺鎧蝦屬,granosa,Munidopsis granosa,顆粒仿刺鎧蝦,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Galatheidae,鎧甲蝦科,Munidopsis,仿刺鎧蝦屬,formosa,Munidopsis formosa,寶島仿刺鎧蝦,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Galatheidae,鎧甲蝦科,Munida,刺鎧蝦屬,albiapicula,Munida albiapicula,白頂刺鎧蝦,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Galatheidae,鎧甲蝦科,Munida,刺鎧蝦屬,agave,Munida agave,阿蓋芙刺鎧蝦,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Ctenochelidae,櫛指蝦科,Ctenocheles,,sp.nov.,Ctenocheles sp.nov.,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Ctenochelidae,櫛指蝦科,Callianopsis,,anovalis,Callianopsis anovalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Crangonidae,褐蝦科,Prionocrangon,鋸褐蝦屬,brevirostris,Prionocrangon brevirostris,短額鋸褐蝦,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Crangonidae,褐蝦科,Placopsicrangon,,formosa,Placopsicrangon formosa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Calocarididae,秀蝦科,Calastacus,,formosus,Calastacus formosus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Calocarididae,秀蝦科,Calastacus,,crosnieri,Calastacus crosnieri,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Calocarididae,秀蝦科,Ambiaxius,,foveolatus,Ambiaxius foveolatus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Callianassidae,美人蝦科,Lepidophthalmus,,sp. nov.,Lepidophthalmus sp. nov.,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Bathypalaemonellidae,,Bathypalaemonetes,,sp.nov.,Bathypalaemonetes sp.nov.,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Axiidae,阿姑蝦科,Calocarides,,chani,Calocarides chani,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Axiidae,阿姑蝦科,Calaxius,,manningi,Calaxius manningi,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Axiidae,阿姑蝦科,Calaxius,,acutirostris,Calaxius acutirostris,尖額麗阿姑蝦,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Axiidae,阿姑蝦科,Acanthaxius,,grandis,Acanthaxius grandis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Axiidae,阿姑蝦科,Acanthaxius,,formosa,Acanthaxius formosa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Atyidae,匙指蝦科,Neocaridina,,saccam,Neocaridina saccam,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Atyidae,匙指蝦科,Neocaridina,,ketagalanare,Neocaridina ketagalanare,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Atyidae,匙指蝦科,Caridina,,pseudodenticulata,Caridina pseudodenticulata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Atyidae,匙指蝦科,Caridina,,formosae,Caridina formosae,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Atyidae,匙指蝦科,Caridina,,faciata,Caridina faciata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Alvinocarididae,,Alvinocaris,,chelys,Alvinocaris chelys,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Alvinocarididae,,Alvinocaridinides,,formosa,Alvinocaridinides formosa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Malacostraca,軟甲綱,Decapoda,十足目,Alpheidae,槍蝦科,Stenalpheops,,crangonus,Stenalpheops crangonus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Zoraptera,缺翅目,Zorotypidae,缺翅蟲科,Zorotypus,,newi,Zorotypus newi,紐氏臺灣缺翅蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Xiphocentronidae,劍石蛾科,Melanotrichia,,taiwanensis,Melanotrichia taiwanensis,臺灣黑毛石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Uenoidae,黑管石蛾科,Uenoa,,taiwanensis,Uenoa taiwanensis,臺灣黑管石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Stenopsychidae,角石蛾科,Stenopsyche,角石蛾屬,taiwanensis,Stenopsyche taiwanensis,臺灣角石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Stenopsychidae,角石蛾科,Stenopsyche,角石蛾屬,grisepennis,Stenopsyche grisepennis,淡色角石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Stenopsychidae,角石蛾科,Stenopsyche,角石蛾屬,formosana,Stenopsyche formosana,寶島角石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Stenopsychidae,角石蛾科,Stenopsyche,角石蛾屬,drakon,Stenopsyche drakon,神龍角石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Rhyacophilidae,流石蛾科,Rhyacophila,流石蛾屬,madalensis,Rhyacophila madalensis,馬達拉流石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Rhyacophilidae,流石蛾科,Rhyacophila,流石蛾屬,kimminsi,Rhyacophila kimminsi,金氏流石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Rhyacophilidae,流石蛾科,Rhyacophila,流石蛾屬,kaohsiungensis,Rhyacophila kaohsiungensis,高雄流石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Rhyacophilidae,流石蛾科,Rhyacophila,流石蛾屬,formosana,Rhyacophila formosana,寶島流石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Rhyacophilidae,流石蛾科,Rhyacophila,流石蛾屬,coclearis,Rhyacophila coclearis,匙形流石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Rhyacophilidae,流石蛾科,Himalopsyche,,lua,Himalopsyche lua,露亞喜馬石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Rhyacophilidae,流石蛾科,Himalopsyche,,baibarana,Himalopsyche baibarana,馬場喜馬石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Psychomyiidae,管石蛾科,Tinodes,,retorta,Tinodes retorta,倒彎齒叉石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Psychomyiidae,管石蛾科,Psychomyia,,babai,Psychomyia babai,馬場管石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Polycentropodidae,多距石蛾科,Polyplectropus,,tachiaensis,Polyplectropus tachiaensis,大甲粗足石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Polycentropodidae,多距石蛾科,Polyplectropus,,inaequalis,Polyplectropus inaequalis,異長粗足石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Polycentropodidae,多距石蛾科,Polycentropus,,unicus,Polycentropus unicus,獨特多距石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Polycentropodidae,多距石蛾科,Polycentropus,,nigrospinus,Polycentropus nigrospinus,黑棘多距石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Polycentropodidae,多距石蛾科,Nyctiophylax,,taiwanensis,Nyctiophylax taiwanensis,臺灣暗色石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Philopotamidae,指石蛾科,Wormaldia,,ulmeri,Wormaldia ulmeri,伍氏同鬚石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Philopotamidae,指石蛾科,Wormaldia,,spinosa,Wormaldia spinosa,棘刺同鬚石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Philopotamidae,指石蛾科,Wormaldia,,amyda,Wormaldia amyda,龜形同鬚石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Philopotamidae,指石蛾科,Dolophilodes,,securis,Dolophilodes securis,斧形角室石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Philopotamidae,指石蛾科,Dolophilodes,,minchiensis,Dolophilodes minchiensis,明池角室石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Philopotamidae,指石蛾科,Dolophilodes,,cheni,Dolophilodes cheni,陳氏角室石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Philopotamidae,指石蛾科,Chimarra,,wushikangensis,Chimarra wushikangensis,烏石坑缺叉石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Philopotamidae,指石蛾科,Chimarra,,triangulata,Chimarra triangulata,三角缺叉石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Philopotamidae,指石蛾科,Chimarra,,lichiuensis,Chimarra lichiuensis,壢坵缺叉石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Philopotamidae,指石蛾科,Chimarra,,formosana,Chimarra formosana,寶島缺叉石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Limnephilidae,沼石蛾科,Apatania,,taiwanensis,Apatania taiwanensis,臺灣鉤肢石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Leptoceridae,長角石蛾科,Triplectides,,rhinoceratitis,Triplectides rhinoceratitis,犀角畸肢石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Leptoceridae,長角石蛾科,Setodes,,perpendicularis,Setodes perpendicularis,直角彎突石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Leptoceridae,長角石蛾科,Setodes,,angulatus,Setodes angulatus,寬角彎突石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Leptoceridae,長角石蛾科,Oecetis,,spinosus,Oecetis spinosus,棘莖家居石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Leptoceridae,長角石蛾科,Oecetis,,spatula,Oecetis spatula,寬片家居石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Leptoceridae,長角石蛾科,Oecetis,,prolixus,Oecetis prolixus,展肢家居石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Leptoceridae,長角石蛾科,Oecetis,,evigra,Oecetis evigra,硬片家屋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Leptoceridae,長角石蛾科,Oecetis,,caelum,Oecetis caelum,厚肢家居石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Leptoceridae,長角石蛾科,Leptocerus,,sexprostatus,Leptocerus sexprostatus,原器長角石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Leptoceridae,長角石蛾科,Ceraclea,,merga,Ceraclea merga,雙叉角突石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Lepidostomatidae,鱗石蛾科,Goerodes,,weirjinensis,Goerodes weirjinensis,唯金長節石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Lepidostomatidae,鱗石蛾科,Goerodes,,tanmounensis,Goerodes tanmounensis,天母長節石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Lepidostomatidae,鱗石蛾科,Goerodes,,taichungensis,Goerodes taichungensis,臺中長節石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Lepidostomatidae,鱗石蛾科,Goerodes,,quadrispinus,Goerodes quadrispinus,四棘長節石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Lepidostomatidae,鱗石蛾科,Dinarthrum,,taiwanense,Dinarthrum taiwanense,臺灣多毛石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydroptilidae,姬石蛾科,Ugandatrichia,,taiwanensis,Ugandatrichia taiwanensis,臺灣烏姬石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydroptilidae,姬石蛾科,Catoxyethira,,formosae,Catoxyethira formosae,寶島短節石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Hydropsyche,,spinata,Hydropsyche spinata,棘刺紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Hydropsyche,,orbiculata,Hydropsyche orbiculata,圓球紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Hydropsyche,,kagiana,Hydropsyche kagiana,嘉義紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Hydropsyche,,formosana,Hydropsyche formosana,寶島紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Hydropsyche,,breviculata,Hydropsyche breviculata,短莖紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Hydromanicus,,wulaina,Hydromanicus wulaina,烏來離脈石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Hydatomanicus,,verrucosus,Hydatomanicus verrucosus,纖細瘤突石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Diplectrona,腺紋石蛾屬,albofasciata,Diplectrona albofasciata,白條腺紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Cheumatopsyche,合脈石蛾屬,wuchidai,Cheumatopsyche wuchidai,內田小紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Cheumatopsyche,合脈石蛾屬,taipeiana,Cheumatopsyche taipeiana,臺北小紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Cheumatopsyche,合脈石蛾屬,sagitta,Cheumatopsyche sagitta,拱形小紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Cheumatopsyche,合脈石蛾屬,clavalis,Cheumatopsyche clavalis,棍棒小紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydropsychidae,紋石蛾科,Cheumatopsyche,合脈石蛾屬,chihonana,Cheumatopsyche chihonana,氣合小紋石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Hydrobiosidae,囊翅石蛾科,Apsilochorema,,excisum,Apsilochorema excisum,凹翅白條石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Goeridae,瘤石蛾科,Goera,瘤石蛾屬,tenuis,Goera tenuis,細緻瘤石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Goeridae,瘤石蛾科,Goera,瘤石蛾屬,prominens,Goera prominens,顯現瘤石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Goeridae,瘤石蛾科,Goera,瘤石蛾屬,minuta,Goera minuta,巧體瘤石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Ecnomidae,長鬚石蛾科,Ecnomus,,wulaina,Ecnomus wulaina,烏來長鬚石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Trichoptera,毛翅目,Calamoceratidae,枝石蛾科,Ganonema,,formosae,Ganonema formosae,寶島寬枝石蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Stenchaetothrips,,undatus,Stenchaetothrips undatus,波齒直毛薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Stenchaetothrips,,karnyianus,Stenchaetothrips karnyianus,卡尼氏直毛薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Stenchaetothrips,,brochus,Stenchaetothrips brochus,側齒直毛薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Stenchaetothrips,,basibrunneus,Stenchaetothrips basibrunneus,褐翅直毛薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Stenchaetothrips,,apheles,Stenchaetothrips apheles,無齒直毛薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Sorghothrips,,meishanensis,Sorghothrips meishanensis,梅山薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Scolothrips,,takahashii,Scolothrips takahashii,高橋食蟎薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Scirtothrips,,asinus,Scirtothrips asinus,檜木跳薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Scirtothrips,,acus,Scirtothrips acus,肖楠跳薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Rhamphothrips,,quintus,Rhamphothrips quintus,昆鉤薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Pseudodendrothrips,,lateralis,Pseudodendrothrips lateralis,側偽棍薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Pseudodendrothrips,,fumosus,Pseudodendrothrips fumosus,觀音山薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Phibalothrips,,basis,Phibalothrips basis,腹基缺纓狹薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Parabaliothrips,,grandiceps,Parabaliothrips grandiceps,深色均毛薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Neohydatothrips,,surrufus,Neohydatothrips surrufus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Neohydatothrips,,medius,Neohydatothrips medius,中板背薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Mycterothrips,,ravidus,Mycterothrips ravidus,灰斑雙毛薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Mycterothrips,,caudibrunneus,Mycterothrips caudibrunneus,褐腹雙毛薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Hydatothrips,,mariposa,Hydatothrips mariposa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Hydatothrips,,flavidus,Hydatothrips flavidus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Helionothrips,,unitatus,Helionothrips unitatus,褐頭網紋薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Helionothrips,,communis,Helionothrips communis,普通網紋薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Helionothrips,,annosus,Helionothrips annosus,高橋網紋薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Frankliniella,,salicis,Frankliniella salicis,柳花薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Dendrothrips,,guttatus,Dendrothrips guttatus,斑棍薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Danothrips,,vicinus,Danothrips vicinus,頭紋淡薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Danothrips,,sakimurai,Danothrips sakimurai,崎村淡薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Ctenothrips,,transeolineae,Ctenothrips transeolineae,橫紋梳薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Astrothrips,,chisinliaoensis,Astrothrips chisinliaoensis,七星寮額突薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Thripidae,薊馬科,Anascirtothrips,,discordiae,Anascirtothrips discordiae,脊擬跳薊馬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Xylaplothrips,,palmerae,Xylaplothrips palmerae,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Podothrips,,luteus,Podothrips luteus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Podothrips,,kentingensis,Podothrips kentingensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Ophthalmothrips,,formosanus,Ophthalmothrips formosanus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Mecynothrips,,taiwanus,Mecynothrips taiwanus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Machatothrips,,celosiae,Machatothrips celosiae,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Machatothrips,,artocarpi,Machatothrips artocarpi,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Hoplandrothrips,,obesametae,Hoplandrothrips obesametae,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Ethirothrips,,virgulae,Ethirothrips virgulae,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Ethirothrips,,chui,Ethirothrips chui,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Bactrothrips,,honoris,Bactrothrips honoris,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Azaleothrips,,magnus,Azaleothrips magnus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Androthrips,,crus,Androthrips crus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Allothrips,,taiwanus,Allothrips taiwanus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Thysanoptera,纓翅目,Phlaeothripidae,管薊馬科,Allothrips,,nubilicauda,Allothrips nubilicauda,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Strepsiptera,撚翅目,Stylopidae,蜂蟊科,Xenos (Xenos),,fromosanus,Xenos (Xenos) fromosanus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Vermipsyllidae,蠕形蚤科,Chaetopsylla,,hohuana,Chaetopsylla hohuana,合歡鬃蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Pygiopsyllidae,臀蚤科,Aviostivalus,,klossi,Aviostivalus klossi alishanensis,古氏遠棒蚤阿里山亞種,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Leptopsyllidae,細蚤科,Frontopsylla,,nakagawai,Frontopsylla nakagawai taiwanensis,中川氏額蚤臺灣亞種,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Ischnopsyllidae,蝠蚤科,Ischnopsyllus,,anmashanensis,Ischnopsyllus anmashanensis,鞍馬蝠蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Hystrichopsyllidae,多毛蚤科,Palaeopsylla,,recava,Palaeopsylla recava,彎曲古蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Hystrichopsyllidae,多毛蚤科,Palaeopsylla,,kappa,Palaeopsylla kappa,合歡古蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Hystrichopsyllidae,多毛蚤科,Neopsylla,,nebula,Neopsylla nebula,雲霧新蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Hystrichopsyllidae,多毛蚤科,Neopsylla,,mustelae,Neopsylla mustelae,黃鼬新蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Hystrichopsyllidae,多毛蚤科,Neopsylla,,constricta,Neopsylla constricta,縮尾新蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Hystrichopsyllidae,多毛蚤科,Hystrichopsylla,,weida,Hystrichopsylla weida weida,偉大多毛蚤偉大亞種,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Hystrichopsyllidae,多毛蚤科,Ctenophthalmus,,taiwanus,Ctenophthalmus taiwanus taiwanus,臺灣櫛眼蚤台灣亞種,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Hystrichopsyllidae,多毛蚤科,Ctenophthalmus,,reductus,Ctenophthalmus reductus,退化櫛眼蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Hystrichopsyllidae,多毛蚤科,Ctenophthalmus,,lui,Ctenophthalmus lui,呂氏櫛眼蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Hystrichopsyllidae,多毛蚤科,Ctenophthalmus,,formosanus,Ctenophthalmus formosanus,蓬萊櫛眼蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Siphonaptera,蚤目,Ceratophyllidae,角葉蚤科,Paraceras,,sauteri,Paraceras sauteri,騷脫氏副蚤,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Stenopsocidae,狹嚙蟲科,Stenopsocus,,tibialis,Stenopsocus tibialis,脛狹嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Stenopsocidae,狹嚙蟲科,Stenopsocus,,makii,Stenopsocus makii,真木狹嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Stenopsocidae,狹嚙蟲科,Stenopsocus,,formosanus,Stenopsocus formosanus,臺灣狹嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Psyllipsocidae,裸嚙蟲科,Psyllipsocus,,metamicropterus,Psyllipsocus metamicropterus,後微翅裸嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Psocidae,嚙蟲科,Trichadenotecnum,,obsitum,Trichadenotecnum obsitum,環圍特嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Psocidae,嚙蟲科,Psocidus,,tacaoensis,Psocidus tacaoensis,高雄擬嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Psocidae,嚙蟲科,Psocidus,,sauteri,Psocidus sauteri,梭氏擬嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Psocidae,嚙蟲科,Psocidus,,formosanus,Psocidus formosanus,蓬萊擬嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Psocidae,嚙蟲科,Atrichadenotecnum,,tayal,Atrichadenotecnum tayal,泰雅似特嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Pseudocaeciliidae,叉嚙蟲科,Pseudocaecilius,,formosanus,Pseudocaecilius formosanus,臺灣叉嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Pseudocaeciliidae,叉嚙蟲科,Ophiodopelma,,ornatipenne,Ophiodopelma ornatipenne,斑翅蛇叉嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Pseudocaeciliidae,叉嚙蟲科,Mesocaecilius,,quadrimaculatus,Mesocaecilius quadrimaculatus,四斑擬毛嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Pseudocaeciliidae,叉嚙蟲科,Mepleres,,limbatus,Mepleres limbatus,邊枚嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Philotarsidae,黑斑嚙蟲科,Aaroniella,,serialis,Aaroniella serialis,毛列阿嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Peripsocidae,圍嚙蟲科,Peripsocus,,stenopterus,Peripsocus stenopterus,狹翅圍嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Pachytroctidae,粗嚙蟲科,Psacadium,,bilimbatum,Psacadium bilimbatum,雙邊粗嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Liposcelidae,書蝨科,Liposcelis,,fasciata,Liposcelis fasciata,帶粉嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Lepidopsocidae,鱗嚙蟲科,Lepium,,enderleini,Lepium enderleini,恩氏叨嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Epipsocidae,一嚙蟲科,Epipsocus,,hageni,Epipsocus hageni,哈氏表嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Dasydemellidae,離嚙蟲科,Matsumuraiella,,enderleini,Matsumuraiella enderleini,恩氏松村嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Caeciliusidae,毛嚙蟲科,Valenzuela,,podacromelas,Valenzuela podacromelas,足梵嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Caeciliusidae,毛嚙蟲科,Valenzuela,,aridus,Valenzuela aridus,乾梵嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Caeciliusidae,毛嚙蟲科,Isophanes,,decipiens,Isophanes decipiens,惑等嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Caeciliusidae,毛嚙蟲科,Dypsocus,,tappanensis,Dypsocus tappanensis,達邦岱嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Caeciliusidae,毛嚙蟲科,Caecilius,,confusus,Caecilius confusus,暗毛嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Psocoptera,嚙蟲目,Amphientomidae,蛾嚙蟲科,Paramphientomum,,nigriceps,Paramphientomum nigriceps,黑頭擬蛾嚙蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Isoentomon,,taiwanense,Isoentomon taiwanense,臺灣同蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,yangi,Eosentomon yangi,楊氏古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,taoi,Eosentomon taoi,陶氏古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,shalihsienense,Eosentomon shalihsienense,沙里仙古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,maai,Eosentomon maai,馬氏古沅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,lieni,Eosentomon lieni,連氏古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,lapilloculi,Eosentomon lapilloculi,珠眼古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,kungi,Eosentomon kungi,貢氏古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,kentingense,Eosentomon kentingense,墾丁古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,ilanense,Eosentomon ilanense,宜蘭古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,fuyuanense,Eosentomon fuyuanense,富源古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,fushanense,Eosentomon fushanense,福山古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,coruscoculi,Eosentomon coruscoculi,亮眼古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,convexoculi,Eosentomon convexoculi,凸眼古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,brevisensillum,Eosentomon brevisensillum,短毛古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,bilapilli,Eosentomon bilapilli,雙珠古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Eosentomidae,古蚖科,Eosentomon,,anmashanense,Eosentomon anmashanense,鞍馬山古蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Tuxenentulus,,wuluensis,Tuxenentulus wuluensis,霧鹿屠蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Silvestridia,,tatungshanensis,Silvestridia tatungshanensis,大凍山薛蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Neobaculentulus,,taiwanensis,Neobaculentulus taiwanensis,臺灣新巴蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Kenyentulus,,taitungensis,Kenyentulus taitungensis,臺東肯蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Kenyentulus,,serdinensis,Kenyentulus serdinensis,社頂肯蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Kenyentulus,,renaiensis,Kenyentulus renaiensis,仁愛肯蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Kenyentulus,,chui,Kenyentulus chui,朱氏肯蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Kenyentulus,,anmashanus,Kenyentulus anmashanus,鞍馬山肯蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Gracilentulus,,lanyuensis,Gracilentulus lanyuensis,蘭嶼格蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Filientomon,,taiwanense,Filientomon taiwanense,臺灣線毛蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Berberentulus,,neipuensis,Berberentulus neipuensis,內埔檗蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Berberentulus,,huisunensis,Berberentulus huisunensis,蕙蓀檗蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Baculentulus,,taipeiensis,Baculentulus taipeiensis,臺北巴蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Protura,原尾目,Acerentomidae,蚖科,Baculentulus,,hohuanshanensis,Baculentulus hohuanshanensis,合歡山巴蚖,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Styloperlidae,刺石蠅科,Ceronychia,,livida,Ceronychia livida,藍刺石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Styloperlidae,刺石蠅科,Ceronychia,,brunnea,Ceronychia brunnea,褐刺石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Styloperlidae,刺石蠅科,Cerconychia,,livida,Cerconychia livida,藍刺石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Styloperlidae,刺石蠅科,Cerconychia,,brunnea,Cerconychia brunnea,褐刺石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Tyloperla,,sauteri,Tyloperla sauteri,邵氏瘤石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Tyloperla,,formosana,Tyloperla formosana,蓬萊瘤石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Paragnetina,,planidorsa,Paragnetina planidorsa,平背純石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Paragnetina,,planidora,Paragnetina planidora,平背純石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Nepoerla,,uniformis,Nepoerla uniformis,單色新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Nepoerla,,taiwanica,Nepoerla taiwanica,臺灣新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Nepoerla,,taihorinensis,Nepoerla taihorinensis,大甫林新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Nepoerla,,signatalis,Nepoerla signatalis,暗斑新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Nepoerla,,sauteri,Nepoerla sauteri,邵氏新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Neoperla,,uniformis,Neoperla uniformis,單色新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Neoperla,,taiwanica,Neoperla taiwanica,臺灣新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Neoperla,,taihorinensis,Neoperla taihorinensis,大甫林新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Neoperla,,signatalis,Neoperla signatalis,暗斑新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Neoperla,,sauteri,Neoperla sauteri,邵式新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Neoperla,,klapleki,Neoperla klapleki,克氏新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Neoperla,,klapaleki,Neoperla klapaleki,克氏新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Neoperla,,formosana,Neoperla formosana,蓬萊新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Neoperla,,costalis,Neoperla costalis,綠脈新石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Mesoperla,,crucigera,Mesoperla crucigera,叉形中石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Kiotina,,collaris,Kiotina collaris,黃綠石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Kamimuria,,lepida,Kamimuria lepida,可愛節石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Kamimuria,,formosana,Kamimuria formosana,蓬萊節石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Gibosia,,lucida,Gibosia lucida,淡色石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Perlidae,石蠅科,Agnetina,,aequalis,Agnetina aequalis,長刺石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Peltoperlidae,扁石蠅科,Peltoperla,,formosana,Peltoperla formosana,蓬萊扁石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Peltoperlidae,扁石蠅科,Cryptoperla,,formosana,Cryptoperla formosana,蓬萊端刺石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Peltoperlidae,扁石蠅科,Cryptoeperla,,uchidai,Cryptoeperla uchidai,內田氏端刺石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Peltoperlidae,扁石蠅科,Cryptoeperla,,klapaleki,Cryptoeperla klapaleki,克氏端刺石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Peltoperlidae,扁石蠅科,Cryptoeperla,,formosana,Cryptoeperla formosana,蓬萊端刺石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Spheroneomura,,plutois,Spheroneomura plutois,蛇眼球尾石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Spheroneomura,,formosana,Spheroneomura formosana,蓬萊球尾石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Spheroneomura,,elephas,Spheroneomura elephas,象形球尾石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Nemura,,formosana,Nemura formosana,蓬萊短尾石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Nemura,,brevilobata,Nemura brevilobata,小葉短尾石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Nemoura,,plutonis,Nemoura plutonis,蛇眼石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Nemoura,,elephas,Nemoura elephas,象形短尾石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Nemoura,,brevilobata,Nemoura brevilobata,小葉短尾石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Illiesonemura,,bispinosa,Illiesonemura bispinosa,雙刺依利列斯石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Illiesonemoura,,bispinosa,Illiesonemoura bispinosa,雙刺依利列斯石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Amphinemura,,flavinotus,Amphinemura flavinotus,白胸頸鰓石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Nemouridae,短尾石蠅科,Amphinemura,,flavicollis,Amphinemura flavicollis,黃頸鰓石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Leuctridae,卷石蠅科,Rhopoalopsole,,subnigra,Rhopoalopsole subnigra,褐諾石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Leuctridae,卷石蠅科,Rhopoalopsole,,dentata,Rhopoalopsole dentata,銳刺諾石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Plecoptera,襀翅目,Leuctridae,卷石蠅科,Rhopalopsole,,dentata,Rhopalopsole dentata,銳刺諾石蠅,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Phthiraptera,毛蝨目,Hoplopleuridae,甲脅蝨科,Ancistroplax,,taiwanensis,Ancistroplax taiwanensis,臺灣鉤板蝨,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Phasmida,竹節蟲目,Phasmatidae,竹節蟲科,Phasmotaenia,,lanyuhensis,Phasmotaenia lanyuhensis,蘭嶼筒胸竹節蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Phasmida,竹節蟲目,Phasmatidae,竹節蟲科,Megacrania,,tsudai,Megacrania tsudai,津田氏大頭竹節蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Phasmida,竹節蟲目,Phasmatidae,竹節蟲科,Entoria,,taihokuensis,Entoria taihokuensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Phasmida,竹節蟲目,Phasmatidae,竹節蟲科,Entoria,,longiopercula,Entoria longiopercula,長蓋長肛竹節蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Phasmida,竹節蟲目,Phasmatidae,竹節蟲科,Entoria,,koshunensis,Entoria koshunensis,恆春長肛竹節蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Phasmida,竹節蟲目,Phasmatidae,竹節蟲科,Entoria,,kiirunensis,Entoria kiirunensis,基隆長肛竹節蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Phasmida,竹節蟲目,Phasmatidae,竹節蟲科,Entoria,,banshoryoensis,Entoria banshoryoensis,旗山長肛竹節蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Phasmida,竹節蟲目,Heteronemiidae,異竹節蟲科,Trachythorax,,sexpunctata,Trachythorax sexpunctata,六點瘤胸竹節蟲,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Orthoptera,直翅目,Tettigoniidae,螽蟴科,Phyllophorina,,kotoshoensis,Phyllophorina kotoshoensis,蘭嶼大葉螽蟴,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Orthoptera,直翅目,Acrididae,蝗科,Phlaeoba,,nantouensis,Phlaeoba nantouensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Platycnemididae,琵蟌科,Coeliccia,,flavicauda,Coeliccia flavicauda flavicauda,黃尾琵蟌,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Libellulidae,蜻蜓科,Urothemis,,signata,Urothemis signata yiei,褐基蜻蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Libellulidae,蜻蜓科,Sympetrum,,speciosum,Sympetrum speciosum taiwanum,黃基蜻蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Gomphidae,春蜓科,Stylurus,,takashii,Stylurus takashii,南山春蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Gomphidae,春蜓科,Stylogomphus,,shirozui,Stylogomphus shirozui shirozui,錘角春蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Gomphidae,春蜓科,Stylogomphus,,changi,Stylogomphus changi,球角春蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Gomphidae,春蜓科,Sinogomphus,,formosanus,Sinogomphus formosanus,鉸剪春蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Gomphidae,春蜓科,Leptogomphus,,sauteri,Leptogomphus sauteri sauteri,紹德春蜓恆春亞種,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Gomphidae,春蜓科,Leptogomphus,,sauteri,Leptogomphus sauteri formosanus,紹德春蜓原名亞種,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Euphaeidae,幽蟌科,Euphaea,,formosa,Euphaea formosa,短腹幽蟌,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Euphaeidae,幽蟌科,Bayadera,,brevicauda,Bayadera brevicauda,短尾幽蟌,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Corduliidae,弓蜓科,Somatochlora,,taiwana,Somatochlora taiwana,臺灣弓蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Corduliidae,弓蜓科,Macromia,,chui,Macromia chui,耀沂弓蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Cordulegastridae,勾蜓科,Chlorogomphus,,brevistigma,Chlorogomphus brevistigma,短痣勾蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Chlorocyphidae,鼓蟌科,Aristocypha,,baibarana,Aristocypha baibarana,簾格鼓蟌,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Calopterygidae,珈蟌科,Psolodesmus,,mandarinus,Psolodesmus mandarinus dorothea,中華珈蟌南台亞種,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Calopterygidae,珈蟌科,Matrona,,cyanoptera,Matrona cyanoptera,白痣珈蟌,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Aeshnidae,晏蜓科,Planaeschna,,taiwana,Planaeschna taiwana,陽明晏蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Aeshnidae,晏蜓科,Planaeschna,,risi,Planaeschna risi risi,李斯晏蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Aeshnidae,晏蜓科,Planaeschna,,ishigakiana,Planaeschna ishigakiana flavostria,石垣晏蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Aeshnidae,晏蜓科,Oligoaeschna,,tsaopiensis,Oligoaeschna tsaopiensis,草埤晏蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Aeshnidae,晏蜓科,Oligoaeschna,,pyanan,Oligoaeschna pyanan,源亞晏蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Odonata,蜻蛉目,Aeshnidae,晏蜓科,Oligoaeschna,,lieni,Oligoaeschna lieni,南澳晏蜓,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Sialidae,泥蛉科,Sialis,,formosana,Sialis formosana,臺灣泥蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Raphididae,蛇蛉科,Mongoloraphidia,,caelebs,Mongoloraphidia caelebs,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Raphididae,蛇蛉科,Mongoloraphidia (Kirgisoraphidia),,taiwanica,Mongoloraphidia (Kirgisoraphidia) taiwanica,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Raphididae,蛇蛉科,Mongoloraphidia (Formosoraphidia),,formosana,Mongoloraphidia (Formosoraphidia) formosana,臺灣蛇蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Paraglenurus,,riparius,Paraglenurus riparius,巨彎爪蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Paraglenurus,,lotzi,Paraglenurus lotzi,姬彎爪蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Paraglenurus,,littoralis,Paraglenurus littoralis,彎爪蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Myrmeleon,,wangi,Myrmeleon wangi,王氏蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Myrmeleon,,taiwanensis,Myrmeleon taiwanensis,臺灣蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Myrmeleon,,persimilis,Myrmeleon persimilis,臀腋蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Myrmeleon,,littoralis,Myrmeleon littoralis,胸紋蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Myrmeleon,,heppneri,Myrmeleon heppneri,海氏蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Myrmeleon,,alticola,Myrmeleon alticola,褐跗蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Gatzara,,petrophila,Gatzara petrophila,麗紋蟻蛉屬,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Distoleon,,littoralis,Distoleon littoralis,粗腿蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Myrmeleontidae,蟻蛉科,Dendroleon,,esbenpeterseni,Dendroleon esbenpeterseni,少紋蟻蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Inocelliidae,盲蛇蛉科,Inocellia,,taiwana,Inocellia taiwana,臺灣盲蛇蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Corydalidae,魚蛉科,Chauliodes,,nebulosus,Chauliodes nebulosus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Neuroptera,脈翅目,Corydalidae,魚蛉科,Chauliodes,,kawarayamanus,Chauliodes kawarayamanus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,yiei,Panorpa yiei,易氏蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,tecta,Panorpa tecta,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,taiwanensis,Panorpa taiwanensis,臺灣蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,taiheisanensis,Panorpa taiheisanensis,太平山蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,sonai,Panorpa sonai,楚南蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,shibatai,Panorpa shibatai,柴田蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,rantaisanensis,Panorpa rantaisanensis,郡大山蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,peterseana,Panorpa peterseana,彼得蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,pectinata,Panorpa pectinata,梳狀蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,pallidmanculata,Panorpa pallidmanculata,淡紋蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,ophthalmica,Panorpa ophthalmica,細紋蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,ochraceocauda,Panorpa ochraceocauda,淡黃蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,nudiramus,Panorpa nudiramus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,nokoensis,Panorpa nokoensis,能高蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,longititilana,Panorpa longititilana,長突蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,longiramina,Panorpa longiramina,長側蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,lintienshana,Panorpa lintienshana,林田山蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,lachlani,Panorpa lachlani,拉式蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,issikii,Panorpa issikii,一色蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,horiensis,Panorpa horiensis,埔里蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,hamata,Panorpa hamata,鉤蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,falsa,Panorpa falsa,偽蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,esakii,Panorpa esakii,江崎蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,deceptor,Panorpa deceptor,斑蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,concolor,Panorpa concolor,單色蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,bunun,Panorpa bunun,布農蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,brevititilana,Panorpa brevititilana,短突蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,bistriata,Panorpa bistriata,雙紋蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,apiconebulosa,Panorpa apiconebulosa,端黑蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,angustistriata,Panorpa angustistriata,窄紋蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Panorpa,,akasakai,Panorpa akasakai,赤坂蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,similis,Neopanorpa similis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,sauteri,Neopanorpa sauteri,紹德新蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,ophthalmica,Neopanorpa ophthalmica,細紋新蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,makii,Neopanorpa makii,牧氏新蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,magna,Neopanorpa magna,大新蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,k-maculata,Neopanorpa k-maculata,K紋新蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,gradana,Neopanorpa gradana,小新蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,formosensis,Neopanorpa formosensis,蓬萊新蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,formosana,Neopanorpa formosana,臺灣新蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,dispar,Neopanorpa dispar,翅端新蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neopanorpa,,babai,Neopanorpa babai,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Panorpidae,蠍蛉科,Neoanorpa,,youngi,Neoanorpa youngi,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Bittacidae,蚊蠍蛉科,Bittacus,,striatus,Bittacus striatus,條紋蚊蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Bittacidae,蚊蠍蛉科,Bittacus,,sonani,Bittacus sonani,楚南蚊蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Bittacidae,蚊蠍蛉科,Bittacus,,maculatus,Bittacus maculatus,斑紋蚊蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Bittacidae,蚊蠍蛉科,Bittacus,,formosanus,Bittacus formosanus,蓬萊蚊蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Mecoptera,長翅目,Bittacidae,蚊蠍蛉科,Bittacus,,chujoi,Bittacus chujoi,中條蚊蠍蛉,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Soritia,,strandi,Soritia strandi,史氏狹翅螢斑蛾;黃點黑斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Soritia,,choui,Soritia choui,周氏狹翅螢斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Soritia,,azurea,Soritia azurea,天藍狹翅螢斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Rhodopsona,,rutila,Rhodopsona rutila,寬緣杜鵑斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Rhodopsona,,marginata,Rhodopsona marginata,細緣杜鵑斑蛾;黑緣紅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Pollanista,,inconspicua,Pollanista inconspicua,霧斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Morionia,,sciara,Morionia sciara,白紋黑斑蛾;小白紋黑斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Milleria,,adalifa,Milleria adalifa fuhoshonis,茅埔庄螢斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Inouela,,formosensis,Inouela formosensis,蓬萊井上氏斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Illiberis,,yeni,Illiberis yeni,顏氏透翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Illiberis,,taiwana,Illiberis taiwana,臺灣透翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Illiberis,,silvestris,Illiberis silvestris,斯氏透翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Illiberis,,phacusana,Illiberis phacusana,銅腹透翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Illiberis,,horni,Illiberis horni,荷氏透翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Illiberis,,formosensis,Illiberis formosensis,蓬萊透翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Illiberis,,arisana,Illiberis arisana,阿里山透翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Hysteroscene,,extravagans,Hysteroscene extravagans,環紋碩斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Histia,,flabellicornis,Histia flabellicornis ultima,重陽木螢斑蛾;鳳斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Gynautocera,,rubriscutellata,Gynautocera rubriscutellata,紅腹長翅螢斑蛾;無尾鳳斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Formozygaena,,shibatai,Formozygaena shibatai,柴谷氏蓬萊斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Eterusia,,taiwana,Eterusia taiwana,臺灣茶斑蛾;琉璃綠三星斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Eterusia,,aedea,Eterusia aedea formosana,蓬萊茶斑蛾;茶斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Erasmiphlebohecta,,picturata,Erasmiphlebohecta picturata,狹翅山龍眼螢斑蛾;單星螢斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Erasmia,,pulchella,Erasmia pulchella hobsoni,山龍眼螢斑蛾;雙星螢班蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Clelea,,formosana,Clelea formosana,蓬萊藍紋斑蛾;藍紋小斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Chalcosia,,thaivana,Chalcosia thaivana thaivana,臺灣螢斑蛾;白帶白斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Chalcosia,,thaivana,Chalcosia thaivana owadai,蘭嶼螢斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Chalcosia,,formosana,Chalcosia formosana contradicta,蓬萊螢斑蛾;白帶烏斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Chalcosia,,diana,Chalcosia diana,光輝螢斑蛾;綠脈白斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Campylotes,,maculosa,Campylotes maculosa,臺灣旭錦斑蛾;胭脂紅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Balataea,,taiwana,Balataea taiwana,臺灣細竹斑蛾;狹翅透斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Artona,,martini,Artona martini,馬汀氏竹斑蛾;竹斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Arbudas,,submacula,Arbudas submacula,黃紋紅頸斑蛾;灰斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Amesia,,sanguiflua,Amesia sanguiflua viriditincta,釉彩螢斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Agalope,,wangi,Agalope wangi,王氏薄翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Agalope,,trimacula,Agalope trimacula,三斑薄翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Agalope,,pica,Agalope pica,花蓮薄翅斑蛾;白斑薄翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Agalope,,formosana,Agalope formosana,蓬萊薄翅斑蛾;黑帶薄翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Zygaenidae,斑蛾科,Achelura,,sanguifasciata,Achelura sanguifasciata,紅帶鉗尾斑蛾;紅帶薄翅斑蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Yponomeutidae,巢蛾科,Thecobathra,小白巢蛾屬,partinuda,Thecobathra partinuda,裸瓣小白巢蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Yponomeutidae,巢蛾科,Thecobathra,小白巢蛾屬,lambda,Thecobathra lambda,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Yponomeutidae,巢蛾科,Thecobathra,小白巢蛾屬,kappa,Thecobathra kappa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Yponomeutidae,巢蛾科,Thecobathra,小白巢蛾屬,basilobata,Thecobathra basilobata,毛瓣小白巢蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Yponomeutidae,巢蛾科,Teinoptila,,guttella,Teinoptila guttella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Yponomeutidae,巢蛾科,Sympetalistis,,petrographa,Sympetalistis petrographa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Yponomeutidae,巢蛾科,Lycophantis,,elongata,Lycophantis elongata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Yponomeutidae,巢蛾科,Kessleria,凱鱘屬,insulella,Kessleria insulella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Yponomeutidae,巢蛾科,Argyresthia,,taiwanensis,Argyresthia taiwanensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Yponomeutidae,巢蛾科,Argyresthia,,ornatipennella,Argyresthia ornatipennella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Xyloryctidae,木蛾科,Cynicorates,,tachytoma,Cynicorates tachytoma,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Uraniidae,燕蛾科,Epiplema,,strigulicosta,Epiplema strigulicosta,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Uraniidae,燕蛾科,Dyseathria,,obscuraria,Dyseathria obscuraria,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Uraniidae,燕蛾科,Dysaethria,,suisharyonis,Dysaethria suisharyonis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineodidae,四翼蛾科,Cenoloba,,argochalca,Cenoloba argochalca,海欖四翼蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Tinea,,nigrofasciata,Tinea nigrofasciata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Tinea,,metathyris,Tinea metathyris,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Tinea,,limenitis,Tinea limenitis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Tinea,,fictrix,Tinea fictrix,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Tinea,,defluescens,Tinea defluescens,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Tinea,,croniopa,Tinea croniopa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Tinea,,argyrocentra,Tinea argyrocentra,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Sapheneutis,,cineracea,Sapheneutis cineracea,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Pachypsaltis,,isolens,Pachypsaltis isolens,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Opogona,,phaeadelpha,Opogona phaeadelpha,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Opogona,,loxophanta,Opogona loxophanta,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Opogona,,leucodeta,Opogona leucodeta,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Opogona,,bicolorella,Opogona bicolorella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Mothogenes,,citrocrana,Mothogenes citrocrana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Machaeropteris,,petalacma,Machaeropteris petalacma,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Tineidae,蕈蛾科,Euplocamus,,tanylopha,Euplocamus tanylopha,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Thyrididae,網蛾科,Thyris,,alex,Thyris alex,白點小窗蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Thyrididae,網蛾科,Hypolamprus,,reticulatus,Hypolamprus reticulatus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Thyrididae,網蛾科,Hypolamprus,,kamadenalis,Hypolamprus kamadenalis,褐窗蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Thyrididae,網蛾科,Hypolamprus,,emblicalis,Hypolamprus emblicalis,寬紋窗蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Thyrididae,網蛾科,Herimba,,atkinsoni,Herimba atkinsoni disconjuncta,白線斑網蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Sphinx,,formosana,Sphinx formosana,臺灣天蛾;松天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Rhagastis,,castor,Rhagastis castor formosana,臺灣白肩天蛾;鋸線白肩天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Rhagastis,,binoculata,Rhagastis binoculata,雙斑白肩天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Pentateucha,,inouei,Pentateucha inouei,井上氏絨毛天蛾;絨毛天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Macroglossum,,ungues,Macroglossum ungues cheni,陳氏長喙天蛾;蘭嶼長喙天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Dahira,,taiwana,Dahira taiwana,臺灣斜帶天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Clanis,,bilineata,Clanis bilineata formosana,豆天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Ampelophaga,,rubiginosa,Ampelophaga rubiginosa myosotis,臺灣葡萄天蛾;葡萄天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Ambulyx,,sericeipennis,Ambulyx sericeipennis okurai,臺灣鷹翅天蛾;亞洲鷹翅天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Ambulyx,,japonica,Ambulyx japonica angustifasciata,日本鷹翅天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sphingidae,天蛾科,Amblypterus,,mansoni,Amblypterus mansoni takamukui,芒果天蛾;福木天蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Trichocerota,,formosana,Trichocerota formosana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Toleria,,ilana,Toleria ilana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Teinotarsina,,flavicincta,Teinotarsina flavicincta,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Teinoarsina,,longitarsa,Teinoarsina longitarsa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Taikona,,matsumurai,Taikona matsumurai,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Synanthedon,,mushana,Synanthedon mushana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Synanthedon,,auritincta,Synanthedon auritincta,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Scasiba,,taikanensis,Scasiba taikanensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Pennisetia,,unicingulata,Pennisetia unicingulata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Pennisetia,,kumaoides,Pennisetia kumaoides,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Parenthrenella,,formosicola,Parenthrenella formosicola,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Paranthrenopsis,,polishana,Paranthrenopsis polishana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Paradoxecia,,taiwana,Paradoxecia taiwana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Paradoxecia,,similis,Paradoxecia similis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Oligophlebiella,,polishana,Oligophlebiella polishana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Nokona,,powondrae,Nokona powondrae,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Nokona,,pilamicola,Nokona pilamicola,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Nokona,,inexpenctata,Nokona inexpenctata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Nokona,,formosana,Nokona formosana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Nokona,,chrysoides,Nokona chrysoides,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Nokona,,acaudata,Nokona acaudata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Milisipepsis,,taiwanensis,Milisipepsis taiwanensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Melittia,,taiwanensis,Melittia taiwanensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Melittia,,cristata,Melittia cristata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Macroscelesia,,formosana,Macroscelesia formosana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Isothamnis,,prisciformis,Isothamnis prisciformis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Gasterostena,,funebris,Gasterostena funebris,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Entrichella,,trifasciatus,Entrichella trifasciatus,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Entrichella,,issikii,Entrichella issikii,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Cyanosesia,,formosana,Cyanosesia formosana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Cyanophlebia,,mandarina,Cyanophlebia mandarina,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Chimaerosphecia,,aegerides,Chimaerosphecia aegerides,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Sesiidae,透翅蛾科,Chamanthedon,,shuisharyonis,Chamanthedon shuisharyonis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Saturniidae,天蠶蛾科,Rhodinia,,verecunda,Rhodinia verecunda,銀目天蠶蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Saturniidae,天蠶蛾科,Loepa,黃豹天蠶蛾屬,mirandula,Loepa mirandula,大黃豹天蠶蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Saturniidae,天蠶蛾科,Loepa,黃豹天蠶蛾屬,formosensis,Loepa formosensis,黃豹天蠶蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Saturniidae,天蠶蛾科,Antheraea,目天蠶蛾屬,formosana,Antheraea formosana,紅目天蠶蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Saturniidae,天蠶蛾科,Actias,長尾水青蛾屬,neidhoederi,Actias neidhoederi,姬長尾水青蛾;木生長尾水青蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Roeslerstammidae,羅氏蛾科,Telethera,,formosa,Telethera formosa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Roeslerstammidae,羅氏蛾科,Agriothera,,issikii,Agriothera issikii,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Volobilis,,ochridorsalis,Volobilis ochridorsalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Volobilis,,biplaga,Volobilis biplaga taiwanella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Tirathaba,,aperta,Tirathaba aperta,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Teliphasa,,obliquilineata,Teliphasa obliquilineata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Teliphasa,,baibarana,Teliphasa baibarana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Tegulifera,,erythrolepia,Tegulifera erythrolepia,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Tamraca,,torridalis,Tamraca torridalis taiwana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Taiwanastrapometis,,kikuchii,Taiwanastrapometis kikuchii,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Stemmatophora,,mushana,Stemmatophora mushana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Stemmatophora,,flavicaput,Stemmatophora flavicaput,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Pyralis,,taihorinalis,Pyralis taihorinalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Pyralis,,costinotalis,Pyralis costinotalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Pyralis,,centralis,Pyralis centralis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Phycitia,,anpingicola,Phycitia anpingicola,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Phycita,,taiwanella,Phycita taiwanella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Phycita,,southi,Phycita southi,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Phycita,,formosella,Phycita formosella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Pempeliella,,furella,Pempeliella furella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Orthopygia,,tenuis,Orthopygia tenuis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Orthopygia,,sokutsensis,Orthopygia sokutsensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Orthopygia,,anpingialis,Orthopygia anpingialis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Orthaga,,edetalis,Orthaga edetalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Orthaga,,confusa,Orthaga confusa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Orthaga,,centralis,Orthaga centralis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Nephopterix,,griseofusa,Nephopterix griseofusa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Mimicia,,pseudolibatrix,Mimicia pseudolibatrix taiwana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Melanalis,,flavalis,Melanalis flavalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Medaniaria,,kosemponella,Medaniaria kosemponella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Lixa,,productalis,Lixa productalis taiwana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Lepidogma,,tripartita,Lepidogma tripartita,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Hypsotropa,,tripartalis,Hypsotropa tripartalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Hypsotropa,,grassa,Hypsotropa grassa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Hypsotropa,,formosalis,Hypsotropa formosalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Hypsopygia,,proboscidalis,Hypsopygia proboscidalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Hypsipyla,,formosana,Hypsipyla formosana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Herculia,,taiwanalis,Herculia taiwanalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Herculia,,castanealis,Herculia castanealis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Eurhodope,,ohkunii,Eurhodope ohkunii,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Eurhodope,,karenkolla,Eurhodope karenkolla,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Eurhodope,,basella,Eurhodope basella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Emmalocera,,miserabilis,Emmalocera miserabilis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Dioryctria,,yiai,Dioryctria yiai,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Curena,,costipunctata,Curena costipunctata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Cryptoblabes,,miserabilis,Cryptoblabes miserabilis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Corcyra,,brunnea,Corcyra brunnea,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Commotria,,enervella,Commotria enervella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Canthelea,,taiwanalis,Canthelea taiwanalis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Canthelea,,anpingialis,Canthelea anpingialis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Anerastia,,stramineipennis,Anerastia stramineipennis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pyralidae,螟蛾科,Acrobasis,,epicrociella,Acrobasis epicrociella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pterophoridae,羽蛾科,Stenoptilia,,platanodes,Stenoptilia platanodes,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pterophoridae,羽蛾科,Pterophorus,,chosokeialis,Pterophorus chosokeialis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pterophoridae,羽蛾科,Platyptilia,,shirozui,Platyptilia shirozui,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pterophoridae,羽蛾科,Platyptilia,,chosokeiella,Platyptilia chosokeiella,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pterophoridae,羽蛾科,Ochyrotica,,taiwanica,Ochyrotica taiwanica,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Psychidae,簑蛾科,Tayalopsyche,,spinidomifera,Tayalopsyche spinidomifera,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Psychidae,簑蛾科,Pteroma,,postica,Pteroma postica,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Psychidae,簑蛾科,Psyche,,taiwana,Psyche taiwana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Psychidae,簑蛾科,Metisa,,saccharivosa,Metisa saccharivosa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Psychidae,簑蛾科,Mahasena,,oolona,Mahasena oolona,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Psychidae,簑蛾科,Mahasena,,kotoensis,Mahasena kotoensis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Psychidae,簑蛾科,Kotochalia,,shirakii,Kotochalia shirakii,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Psychidae,簑蛾科,Eurukuttarus,,tatahashii,Eurukuttarus tatahashii,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Plutellidae,菜蛾科,Anthonympha,,speciosa,Anthonympha speciosa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pieridae,粉蝶科,Delias,艷粉蝶屬,berinda,Delias berinda wilemani,黃裙豔粉蝶;韋氏麻斑粉蝶;韋氏胡麻斑粉蝶;臺灣胡麻斑粉蝶;偉而曼白蝶;韋氏麻粉蝶;黃裙斑粉蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pieridae,粉蝶科,Aporia,絹粉蝶屬,gigantea,Aporia gigantea cheni,截脈絹粉蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Phaudidae,榕蛾科,Phauda,,similis,Phauda similis,偽榕蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Phaudidae,榕蛾科,Phauda,,rubra,Phauda rubra,紅翅榕蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Phaudidae,榕蛾科,Phauda,,mimica,Phauda mimica,恆春榕蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Phaudidae,榕蛾科,Phauda,,horishana,Phauda horishana,埔里榕蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Phaudidae,榕蛾科,Phauda,,arikana,Phauda arikana,里港榕蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Papilionidae,鳳蝶科,Papilio,鳳蝶屬,thaiwanus,Papilio thaiwanus,臺灣鳳蝶;渡邊鳳蝶;臺灣藍鳳蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Papilionidae,鳳蝶科,Papilio,鳳蝶屬,hopponis,Papilio hopponis,雙環翠鳳蝶;重幃鳳蝶;雙環鳳蝶;北埔鳳蝶;重月紋翠鳳蝶;重幃翠鳳蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Papilionidae,鳳蝶科,Papilio,鳳蝶屬,hermosanus,Papilio hermosanus,臺灣琉璃翠鳳蝶;寶鏡鳳蝶;琉璃紋鳳蝶;瑠璃紋鳳蝶;琉璃鳳蝶臺灣亞種,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Papilionidae,鳳蝶科,Atrophaneura,曙鳳蝶屬,horishana,Atrophaneura horishana,曙鳳蝶;桃紅鳳蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Papilionidae,鳳蝶科,Agehana,寬尾鳳蝶屬,maraho,Agehana maraho,臺灣寬尾鳳蝶;寬尾鳳蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Pantheidae,隆蛾科,Trisuloides,后夜蛾屬,taiwana,Trisuloides taiwana,臺灣后夜蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Palaeosetidae,古蝠蛾科,Ogygioses,,issikii,Ogygioses issikii,一色氏古蝠蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Palaeosetidae,古蝠蛾科,Ogygioses,,eurata,Ogygioses eurata,烏來古蝠蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Palaeosetidae,古蝠蛾科,Ogygioses,,caliginosa,Ogygioses caliginosa,巒大古蝠蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Stathmopoda,,vertibrata,Stathmopoda vertibrata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Stathmopoda,,melitripta,Stathmopoda melitripta,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Stathmopoda,,brachymochla,Stathmopoda brachymochla,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Satrapia,,pyrotechnica,Satrapia pyrotechnica,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Philobota,,syntropa,Philobota syntropa,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Periacma,,lagophthalma,Periacma lagophthalma,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Periacma,,delegata,Periacma delegata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Periacma,,conioxantha,Periacma conioxantha,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Peracma,,pontiseca,Peracma pontiseca,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Pachyrhabda,,citrinacma,Pachyrhabda citrinacma,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Lamprystica,,purpurata,Lamprystica purpurata,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Formokamaga,,flavopicta,Formokamaga flavopicta,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Eulechria,,colonialis,Eulechria colonialis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Casmara,,patrona,Casmara patrona,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Borkhausenia,,tyropis,Borkhausenia tyropis,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Oecophoridae,織蛾科,Ashinaga,,longimana,Ashinaga longimana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Zophoessa,幽眼蝶屬,niitakana,Zophoessa niitakana,玉山幽眼蝶;玉山黛眼蝶;玉山蔭蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Ypthima,波眼蝶屬,wenlungi,Ypthima wenlungi,文龍波眼蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Ypthima,波眼蝶屬,wangi,Ypthima wangi,王氏波眼蝶;王氏波紋蛇目蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Ypthima,波眼蝶屬,okurai,Ypthima okurai,大藏波眼蝶;大藏波紋蛇目蝶;深山波紋蛇目蝶;矍眼蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Ypthima,波眼蝶屬,formosana,Ypthima formosana,寶島波眼蝶;臺灣瞿眼蝶;大波紋蛇目蝶;臺灣鄰眼蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Ypthima,波眼蝶屬,esakii,Ypthima esakii,江崎波眼蝶;江崎瞿眼蝶;江崎波紋蛇目蝶;埔里波紋蛇目蝶;江崎鄰眼蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Ypthima,波眼蝶屬,angustipennis,Ypthima angustipennis,狹翅波眼蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Ypthima,波眼蝶屬,akragas,Ypthima akragas,白帶波眼蝶;臺灣小波紋蛇目蝶;高山波紋蛇目蝶;斐矍眼蝶;臺灣小波眼蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Sephisa,燦蛺蝶屬,daimio,Sephisa daimio,臺灣燦蛺蝶;臺灣帥蛺蝶;白裙黃斑蛺蝶;高砂黃斑挾蝶;臺灣黃胡麻斑蛺蝶;臺灣黃斑蛺蝶;臺灣繚斑蛺蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Neptis,環蛺蝶屬,taiwana,Neptis taiwana,蓬萊環蛺蝶;臺灣環蛺蝶;埔里三線蝶;埔里社三線蝶;臺灣三線蛺蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Neptis,環蛺蝶屬,reducta,Neptis reducta,無邊環蛺蝶;回環蛺蝶;寬紋三線蝶;清義三線蝶;闊三線蝶;寬環蛺蝶;寬紋環蛺蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Minois,蛇眼蝶屬,nagasawae,Minois nagasawae,永澤蛇眼蝶;永澤蛇目蝶;文宗蛇目蝶;合歡山蛇目蝶;永澤眼蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Lethe,黛眼蝶屬,mataja,Lethe mataja,臺灣黛眼蝶;馬太黛眼蝶;大玉帶黑蔭蝶;大白帶黑蔭蝶;大白帶黛蝶;大白條黑蔭蝶;大斜帶竹眼蝶;黑眉竹眼蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Helcyra,白蛺蝶屬,plesseni,Helcyra plesseni,普氏白蛺蝶;臺灣白蛺蝶;國姓小紫蛺蝶;寬信紫挾蝶;北山小紫蛺蝶;朴銀白蛺蝶;國姓白蛺蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Euthalia,翠蛺蝶屬,malapana,Euthalia malapana,馬拉巴翠蛺蝶;馬拉巴綠一文字蝶;仁愛綠蛺蝶;眉原綠一字蝶;仁愛翠蛺蝶;馬拉巴綠蛺蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Nymphalidae,蛺蝶科,Euthalia,翠蛺蝶屬,formosana,Euthalia formosana,臺灣翠蛺蝶;臺灣綠蛺蝶;高砂綠一文字蝶;臺灣綠一字蝶;臺灣蛺蝶,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Stauropus,,teikichiana,Stauropus teikichiana,台蟻舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Shaka,,atrovittata,Shaka atrovittata mushensis,沙舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Ptilophora,,rufula,Ptilophora rufula,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Pseudofentonia (Mimus),,medioalbida,Pseudofentonia (Mimus) medioalbida,白中擬紛舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Pseudofentonia (Eufentonia),,nakamurai,Pseudofentonia (Eufentonia) nakamurai,中村氏擬紛舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Pheosiopsis (Suzukiana),,cinerea,Pheosiopsis (Suzukiana) cinerea formosana,喜夙舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Pheosiopsis (Suzukiana),,alishanensis,Pheosiopsis (Suzukiana) alishanensis,阿里山夙舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Pheosiopsis (Oligaeschra),,lusciniola,Pheosiopsis (Oligaeschra) lusciniola,路夙舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Peridea,,graeseri,Peridea graeseri tayal,赭小內斑舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Nephodonta,,taiwanensis,Nephodonta taiwanensis,臺灣霧舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Neodrymonia,,taiwana,Neodrymonia taiwana,臺灣新林舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Mimopydna,,kishidai,Mimopydna kishidai kishidai,岸田氏擬皮舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Microphalera,,grisea,Microphalera grisea yoshimotoi,灰小掌舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Metriaeschra,,apatela,Metriaeschra apatela elegans,幻心舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Mesophalera,,speratus,Mesophalera speratus,希望間掌舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Mangea,,gemina,Mangea gemina,雙星繁花舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Lophontosia,,fusca,Lophontosia fusca,棕冠齒舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Lophocosma,,nigrilinea,Lophocosma nigrilinea geniculata,彎臂冠舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Ginshachia,,elongata,Ginshachia elongata,錦舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Gazalina,,purificata,Gazalina purificata,白雪舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Curuzza,,ronkayorum,Curuzza ronkayorum,黃枯舟蛾,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Besaia (Besaia),,sordida,Besaia (Besaia) sordida,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Notodontidae,舟蛾科,Benbowia,,takamukuana,Benbowia takamukuana,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Noctuidae,夜蛾科,Zanclognatha,鐮須夜蛾屬,nigrisigna,Zanclognatha nigrisigna,,1
+Animalia,動物界,Arthropoda,節肢動物門,Insecta,昆蟲綱,Lepidoptera,鱗翅目,Noctuidae,夜蛾科,Zanclognatha,鐮須夜蛾屬,nakatomii,Zanclognatha nakatomii,,1

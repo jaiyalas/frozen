@@ -1,0 +1,22 @@
+Name:                CSVSquash
+Version:             1.0
+Synopsis:            CSV Squasher.
+Description:         A program for squashing CSV files in one row.
+License-file:        LICENSE
+Author:              jaiyalas (Yun-Yan Chi)
+Maintainer:          jaiyalas@gmail.com
+homepage:            https://github.com/jaiyalas/csvsquash
+Stability:           Experimental
+Category:            CSV
+Build-type:          Simple
+Cabal-version:       >=1.2
+
+Executable csvsquash
+  main-is: CSVSquash.hs
+
+  Build-depends:
+    base >= 4
+    -- cmdargs >= 0.6
+
+  -- ghc-options: -Wall -O2 -XDeriveDataTypeable
+  ghc-options: -Wall -O2 

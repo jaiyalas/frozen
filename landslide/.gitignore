@@ -1,0 +1,16 @@
+*.pyc
+build
+.idea
+landslide/.idea
+presentation.html
+*.pdf
+examples/.DS_Store
+*.swp
+landslide.egg-info
+dist/
+*.komodoproject
+.komodotools
+landslide.sublime-project
+docs/_build
+venv
+.tox
